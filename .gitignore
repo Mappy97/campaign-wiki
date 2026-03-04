@@ -9,3 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+# Audio and processed files
+content/DND-Campaign/Inbox/
