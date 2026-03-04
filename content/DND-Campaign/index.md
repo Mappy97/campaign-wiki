@@ -26,10 +26,15 @@ Welcome to the official wiki for our D&D campaign! This wiki contains session no
 
 ## 📅 Recent Sessions
 
-- [[Sessions/sess_20260303]] - March 3, 2026
-- [[Sessions/sess_20260223-1]] - February 23, 2026
-- [[Sessions/sess_20260222-2]] - February 22, 2026
-- [[Sessions/sess_20260219]] - February 19, 2026
+- [[Sessions/sess_20260303]] - March 3, 2026 (Prison escape, Ratman, Dark room puzzle)
+- [[Sessions/sess_20260124-2]] - January 24, 2026 (Train/Boulder incident, Iron Drake)
+- [[Indexes/sessions_index]] - View all 19 sessions
+
+## 📊 Campaign Stats
+
+- **Total Sessions:** 19
+- **Duration:** October 2025 - Present
+- **Main Characters:** Jimothy, Elysium, Gordon (+ Gary the frog)
 
 ## 🗺️ Current Quests
 
