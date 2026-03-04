@@ -11,3 +11,5 @@ private/
 replit.nix
 # Audio and processed files
 content/DND-Campaign/Inbox/
+content/DND-Campaign-site/
+content/sessionkeeper_mvp/
