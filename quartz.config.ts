@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://Mappy97.github.io/campaign-wiki",
+    baseUrl: "Mappy97.github.io/campaign-wiki",
     pathBase: "/campaign-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
