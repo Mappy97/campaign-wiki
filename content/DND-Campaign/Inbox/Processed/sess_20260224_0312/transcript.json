@@ -1,0 +1,4383 @@
+{
+  "segments": [
+    {
+      "start": 3,
+      "end": 4,
+      "speaker": "DM",
+      "text": "Ah. theres still."
+    },
+    {
+      "start": 3,
+      "end": 3,
+      "speaker": "DM",
+      "text": "Ah."
+    },
+    {
+      "start": 4,
+      "end": 5,
+      "speaker": "Gordon",
+      "text": "All right."
+    },
+    {
+      "start": 5,
+      "end": 7,
+      "speaker": "DM",
+      "text": "Ah. theres couple of minutes left in the turn the branch off."
+    },
+    {
+      "start": 9,
+      "end": 9,
+      "speaker": "Jimothy",
+      "text": "Oh."
+    },
+    {
+      "start": 9,
+      "end": 11,
+      "speaker": "Gordon",
+      "text": "All right faithfuls, it is time to vote."
+    },
+    {
+      "start": 9,
+      "end": 9,
+      "speaker": "Jimothy",
+      "text": "Oh."
+    },
+    {
+      "start": 12,
+      "end": 12,
+      "speaker": "Jimothy",
+      "text": "Oh."
+    },
+    {
+      "start": 13,
+      "end": 15,
+      "speaker": "Jimothy",
+      "text": "Oh. you guys vote for me, please."
+    },
+    {
+      "start": 13,
+      "end": 13,
+      "speaker": "Elysium",
+      "text": "Writer."
+    },
+    {
+      "start": 15,
+      "end": 17,
+      "speaker": "Gordon",
+      "text": "Sean got that, I hope."
+    },
+    {
+      "start": 17,
+      "end": 17,
+      "speaker": "Elysium",
+      "text": "Writer. trader."
+    },
+    {
+      "start": 20,
+      "end": 20,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 25,
+      "end": 29,
+      "speaker": "Jimothy",
+      "text": "Yeah. really, dont I really like this whole, this whole side quest I didnt want to go on? Um?"
+    },
+    {
+      "start": 30,
+      "end": 31,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 31,
+      "end": 32,
+      "speaker": "Jimothy",
+      "text": "Um. um."
+    },
+    {
+      "start": 32,
+      "end": 35,
+      "speaker": "DM",
+      "text": "Stupid elicium encouraging me to do the right thing."
+    },
+    {
+      "start": 32,
+      "end": 33,
+      "speaker": "Elysium",
+      "text": "Lepacoin."
+    },
+    {
+      "start": 33,
+      "end": 33,
+      "speaker": "Jimothy",
+      "text": "Um. um."
+    },
+    {
+      "start": 35,
+      "end": 36,
+      "speaker": "Jimothy",
+      "text": "Ah, because I."
+    },
+    {
+      "start": 38,
+      "end": 40,
+      "speaker": "Elysium",
+      "text": "Lepacoin. your Sean saying Hey, check it."
+    },
+    {
+      "start": 39,
+      "end": 39,
+      "speaker": "Jimothy",
+      "text": "Uh?"
+    },
+    {
+      "start": 45,
+      "end": 45,
+      "speaker": "Jimothy",
+      "text": "Uh?"
+    },
+    {
+      "start": 47,
+      "end": 47,
+      "speaker": "Jimothy",
+      "text": "Uh?"
+    },
+    {
+      "start": 47,
+      "end": 47,
+      "speaker": "Jimothy",
+      "text": "Uh?"
+    },
+    {
+      "start": 49,
+      "end": 52,
+      "speaker": "Jimothy",
+      "text": "Uh? let me look at my my gear, Um?"
+    },
+    {
+      "start": 53,
+      "end": 53,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 56,
+      "end": 59,
+      "speaker": "DM",
+      "text": "Your time is running low before were going to switch over to Alicium?"
+    },
+    {
+      "start": 61,
+      "end": 61,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 61,
+      "end": 61,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 65,
+      "end": 65,
+      "speaker": "Jimothy",
+      "text": "Um. right?"
+    },
+    {
+      "start": 70,
+      "end": 70,
+      "speaker": "Jimothy",
+      "text": "J."
+    },
+    {
+      "start": 71,
+      "end": 71,
+      "speaker": "Jimothy",
+      "text": "J."
+    },
+    {
+      "start": 72,
+      "end": 72,
+      "speaker": "Jimothy",
+      "text": "J."
+    },
+    {
+      "start": 85,
+      "end": 85,
+      "speaker": "Jimothy",
+      "text": "J. ri."
+    },
+    {
+      "start": 85,
+      "end": 85,
+      "speaker": "Jimothy",
+      "text": "Rift."
+    },
+    {
+      "start": 89,
+      "end": 90,
+      "speaker": "Jimothy",
+      "text": "Rift. i."
+    },
+    {
+      "start": 90,
+      "end": 92,
+      "speaker": "Jimothy",
+      "text": "Rift. i. that to teleport?"
+    },
+    {
+      "start": 93,
+      "end": 93,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 95,
+      "end": 99,
+      "speaker": "DM",
+      "text": "Yeah, so the default of that spell is to teleport the target to you."
+    },
+    {
+      "start": 100,
+      "end": 100,
+      "speaker": "DM",
+      "text": "If you."
+    },
+    {
+      "start": 100,
+      "end": 107,
+      "speaker": "DM",
+      "text": "If try to teleport the target somewhere other than you, that would be stretching the spell and it would require disadvantaged rolls and."
+    },
+    {
+      "start": 107,
+      "end": 108,
+      "speaker": "DM",
+      "text": "The risk."
+    },
+    {
+      "start": 109,
+      "end": 109,
+      "speaker": "DM",
+      "text": "Grow."
+    },
+    {
+      "start": 111,
+      "end": 111,
+      "speaker": "DM",
+      "text": "Grow. you stretch spells."
+    },
+    {
+      "start": 116,
+      "end": 117,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 117,
+      "end": 117,
+      "speaker": "Jimothy",
+      "text": "Yeah. right?"
+    },
+    {
+      "start": 117,
+      "end": 118,
+      "speaker": "DM",
+      "text": "I should have."
+    },
+    {
+      "start": 118,
+      "end": 118,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 119,
+      "end": 129,
+      "speaker": "DM",
+      "text": "Clarified that one time when a teleportation spell killed an entire party. it was because they stretched the teleportation spell and got an at one and that wiped the entire party."
+    },
+    {
+      "start": 119,
+      "end": 119,
+      "speaker": "Gordon",
+      "text": "Mm."
+    },
+    {
+      "start": 131,
+      "end": 131,
+      "speaker": "DM",
+      "text": "It wasnt."
+    },
+    {
+      "start": 132,
+      "end": 133,
+      "speaker": "DM",
+      "text": "It in that one that caused it."
+    },
+    {
+      "start": 136,
+      "end": 143,
+      "speaker": "DM",
+      "text": "I dont want you guys to think every time you cast a teleportation spell theres like a one in 20, chance that the whole party is going to get wiped out, thats not it."
+    },
+    {
+      "start": 145,
+      "end": 145,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 147,
+      "end": 147,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 148,
+      "end": 148,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 148,
+      "end": 151,
+      "speaker": "Jimothy",
+      "text": "Um. with that jimosie, Yeah, okay."
+    },
+    {
+      "start": 148,
+      "end": 149,
+      "speaker": "DM",
+      "text": "So you?"
+    },
+    {
+      "start": 150,
+      "end": 152,
+      "speaker": "DM",
+      "text": "So just about out of time right now."
+    },
+    {
+      "start": 151,
+      "end": 152,
+      "speaker": "Jimothy",
+      "text": "Okay, Okay, So?"
+    },
+    {
+      "start": 153,
+      "end": 155,
+      "speaker": "Jimothy",
+      "text": "So so jimothy? um?"
+    },
+    {
+      "start": 155,
+      "end": 155,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 157,
+      "end": 158,
+      "speaker": "Jimothy",
+      "text": "Um. salu."
+    },
+    {
+      "start": 158,
+      "end": 159,
+      "speaker": "Jimothy",
+      "text": "Um. salu."
+    },
+    {
+      "start": 159,
+      "end": 161,
+      "speaker": "Jimothy",
+      "text": "To you know if?"
+    },
+    {
+      "start": 161,
+      "end": 166,
+      "speaker": "Jimothy",
+      "text": "If there are any people watching, hes like okay. salute. Im gonna head out. He B."
+    },
+    {
+      "start": 167,
+      "end": 172,
+      "speaker": "Jimothy",
+      "text": "Off because they're they're right next to the entrance, right of this of a prison, so."
+    },
+    {
+      "start": 171,
+      "end": 173,
+      "speaker": "DM",
+      "text": "Yeah, theyre walking right up into it."
+    },
+    {
+      "start": 173,
+      "end": 175,
+      "speaker": "Jimothy",
+      "text": "So, so yeah, he breaks off to go and and."
+    },
+    {
+      "start": 176,
+      "end": 177,
+      "speaker": "Jimothy",
+      "text": "You know stand."
+    },
+    {
+      "start": 178,
+      "end": 181,
+      "speaker": "Jimothy",
+      "text": "Stand guard next to the gate as if like that's his post or something."
+    },
+    {
+      "start": 182,
+      "end": 183,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 182,
+      "end": 183,
+      "speaker": "Jimothy",
+      "text": "Um. subt."
+    },
+    {
+      "start": 184,
+      "end": 185,
+      "speaker": "Jimothy",
+      "text": "Um. subt."
+    },
+    {
+      "start": 185,
+      "end": 185,
+      "speaker": "Jimothy",
+      "text": "Subtly."
+    },
+    {
+      "start": 190,
+      "end": 190,
+      "speaker": "Jimothy",
+      "text": "Subtly. he."
+    },
+    {
+      "start": 191,
+      "end": 194,
+      "speaker": "Jimothy",
+      "text": "Subtly. he. to use his magic to stretch."
+    },
+    {
+      "start": 198,
+      "end": 201,
+      "speaker": "Jimothy",
+      "text": "The. riff spell to get her, Oh to."
+    },
+    {
+      "start": 198,
+      "end": 198,
+      "speaker": "Jimothy",
+      "text": "The."
+    },
+    {
+      "start": 202,
+      "end": 206,
+      "speaker": "Jimothy",
+      "text": "To make her go elsewhere, yeah."
+    },
+    {
+      "start": 204,
+      "end": 205,
+      "speaker": "DM",
+      "text": "Hes doing it."
+    },
+    {
+      "start": 206,
+      "end": 206,
+      "speaker": "Elysium",
+      "text": "Okay."
+    },
+    {
+      "start": 206,
+      "end": 206,
+      "speaker": "DM",
+      "text": "All right."
+    },
+    {
+      "start": 208,
+      "end": 212,
+      "speaker": "DM",
+      "text": "All is gonna be two disadvantaged rolls? it's gonna to be wisdom with this advantage."
+    },
+    {
+      "start": 214,
+      "end": 217,
+      "speaker": "DM",
+      "text": "And it is going to be luck with this advantage."
+    },
+    {
+      "start": 229,
+      "end": 229,
+      "speaker": "DM",
+      "text": "Oh."
+    },
+    {
+      "start": 231,
+      "end": 231,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 233,
+      "end": 233,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 233,
+      "end": 239,
+      "speaker": "Jimothy",
+      "text": "Okay. to make a shot, I took two shots last time, so I have two available to bank Um."
+    },
+    {
+      "start": 239,
+      "end": 239,
+      "speaker": "DM",
+      "text": "Oh."
+    },
+    {
+      "start": 239,
+      "end": 240,
+      "speaker": "Jimothy",
+      "text": "Thanking my first shot now."
+    },
+    {
+      "start": 250,
+      "end": 250,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 250,
+      "end": 252,
+      "speaker": "DM",
+      "text": "Oh. so thats a twelve on the with them?"
+    },
+    {
+      "start": 251,
+      "end": 252,
+      "speaker": "Jimothy",
+      "text": "Okay. my wisdom roll."
+    },
+    {
+      "start": 255,
+      "end": 256,
+      "speaker": "DM",
+      "text": "All right."
+    },
+    {
+      "start": 257,
+      "end": 257,
+      "speaker": "DM",
+      "text": "All now luck."
+    },
+    {
+      "start": 265,
+      "end": 266,
+      "speaker": "Elysium",
+      "text": "Okay. unlock 1212."
+    },
+    {
+      "start": 265,
+      "end": 266,
+      "speaker": "Jimothy",
+      "text": "Twelve on the luck."
+    },
+    {
+      "start": 272,
+      "end": 273,
+      "speaker": "Jimothy",
+      "text": "Above average for both."
+    },
+    {
+      "start": 275,
+      "end": 275,
+      "speaker": "DM",
+      "text": "Mm."
+    },
+    {
+      "start": 276,
+      "end": 277,
+      "speaker": "Elysium",
+      "text": "Except in Texas."
+    },
+    {
+      "start": 277,
+      "end": 277,
+      "speaker": "DM",
+      "text": "Mm."
+    },
+    {
+      "start": 277,
+      "end": 277,
+      "speaker": "DM",
+      "text": "Mm."
+    },
+    {
+      "start": 281,
+      "end": 285,
+      "speaker": "Jimothy",
+      "text": "Okay, hold on. Okay, hold on. id like to do ah, um."
+    },
+    {
+      "start": 285,
+      "end": 286,
+      "speaker": "Jimothy",
+      "text": "Um, ban."
+    },
+    {
+      "start": 287,
+      "end": 291,
+      "speaker": "Jimothy",
+      "text": "Shot for that luck role based on your reaction just now."
+    },
+    {
+      "start": 298,
+      "end": 299,
+      "speaker": "DM",
+      "text": "Mm. all means."
+    },
+    {
+      "start": 298,
+      "end": 299,
+      "speaker": "Elysium",
+      "text": "Loves making you react to his reaction."
+    },
+    {
+      "start": 299,
+      "end": 304,
+      "speaker": "DM",
+      "text": "By all means, dude, Im having heart palpitations right now Im not well okay."
+    },
+    {
+      "start": 305,
+      "end": 306,
+      "speaker": "DM",
+      "text": "Okay, go ahead, okay?"
+    },
+    {
+      "start": 307,
+      "end": 307,
+      "speaker": "Elysium",
+      "text": "Obliterator."
+    },
+    {
+      "start": 313,
+      "end": 315,
+      "speaker": "DM",
+      "text": "Were going to stick with the higher of the two."
+    },
+    {
+      "start": 317,
+      "end": 317,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 319,
+      "end": 319,
+      "speaker": "DM",
+      "text": "Okay."
+    },
+    {
+      "start": 319,
+      "end": 319,
+      "speaker": "Jimothy",
+      "text": "Okay. okay."
+    },
+    {
+      "start": 320,
+      "end": 325,
+      "speaker": "DM",
+      "text": "Okay. that is your third bank shot, so you have maxed out now?"
+    },
+    {
+      "start": 323,
+      "end": 323,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 326,
+      "end": 326,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 335,
+      "end": 335,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 337,
+      "end": 337,
+      "speaker": "DM",
+      "text": "So? youve rerolled."
+    },
+    {
+      "start": 339,
+      "end": 340,
+      "speaker": "DM",
+      "text": "Ill re."
+    },
+    {
+      "start": 340,
+      "end": 341,
+      "speaker": "DM",
+      "text": "Ill for them, okay?"
+    },
+    {
+      "start": 350,
+      "end": 350,
+      "speaker": "DM",
+      "text": "Okay."
+    },
+    {
+      "start": 351,
+      "end": 351,
+      "speaker": "DM",
+      "text": "Okay."
+    },
+    {
+      "start": 353,
+      "end": 354,
+      "speaker": "DM",
+      "text": "Okay. move your fingers."
+    },
+    {
+      "start": 356,
+      "end": 356,
+      "speaker": "Jimothy",
+      "text": "Yeah. subtly."
+    },
+    {
+      "start": 356,
+      "end": 361,
+      "speaker": "DM",
+      "text": "Trying to? actually? Oh, you're trying to do it with subtlety shit, that's gonna be a cunning robo disadvantage to."
+    },
+    {
+      "start": 362,
+      "end": 362,
+      "speaker": "Jimothy",
+      "text": "Why?"
+    },
+    {
+      "start": 363,
+      "end": 363,
+      "speaker": "Jimothy",
+      "text": "Why?"
+    },
+    {
+      "start": 364,
+      "end": 364,
+      "speaker": "DM",
+      "text": "Because."
+    },
+    {
+      "start": 364,
+      "end": 366,
+      "speaker": "Jimothy",
+      "text": "Why? magic the magic itself."
+    },
+    {
+      "start": 366,
+      "end": 375,
+      "speaker": "DM",
+      "text": "Because. stretching of the magic creates the luck and the wisdom, if youre trying to add sneakiness as an extra layer, then you have to add that as an extra layer."
+    },
+    {
+      "start": 372,
+      "end": 375,
+      "speaker": "Jimothy",
+      "text": "No, no, but thats separate from the magic, though Im not."
+    },
+    {
+      "start": 377,
+      "end": 378,
+      "speaker": "DM",
+      "text": "You can do it kind of casually."
+    },
+    {
+      "start": 380,
+      "end": 398,
+      "speaker": "DM",
+      "text": "But if you're trying to be sneaky, that's going to be another disadvantage role with cunning, no cunning has come into the equation yet, so you're trying to stretch a spell and be sneaky. It's like what's the rule? Dont break more than three or more than one law at a time, so dont speed with a boat and a trailer in the carpool lane if you only have one person in the car."
+    },
+    {
+      "start": 399,
+      "end": 400,
+      "speaker": "Jimothy",
+      "text": "Okay, I."
+    },
+    {
+      "start": 400,
+      "end": 402,
+      "speaker": "Elysium",
+      "text": "Obliterator. you just never have a carpool lane."
+    },
+    {
+      "start": 401,
+      "end": 403,
+      "speaker": "Jimothy",
+      "text": "Im trying to be trying to be stinky here."
+    },
+    {
+      "start": 404,
+      "end": 404,
+      "speaker": "DM",
+      "text": "Oh, Bo."
+    },
+    {
+      "start": 406,
+      "end": 406,
+      "speaker": "DM",
+      "text": "Oh, oh boy."
+    },
+    {
+      "start": 406,
+      "end": 408,
+      "speaker": "Elysium",
+      "text": "Okay, okay, thats."
+    },
+    {
+      "start": 407,
+      "end": 409,
+      "speaker": "Jimothy",
+      "text": "All right, 18?"
+    },
+    {
+      "start": 409,
+      "end": 409,
+      "speaker": "Elysium",
+      "text": "Good 18."
+    },
+    {
+      "start": 410,
+      "end": 410,
+      "speaker": "Jimothy",
+      "text": "All the sinky."
+    },
+    {
+      "start": 416,
+      "end": 416,
+      "speaker": "Elysium",
+      "text": "Good he."
+    },
+    {
+      "start": 417,
+      "end": 419,
+      "speaker": "Elysium",
+      "text": "Good he. be tactical about it, too."
+    },
+    {
+      "start": 422,
+      "end": 425,
+      "speaker": "DM",
+      "text": "Okay, so thats an 18 on the sneaki lets see."
+    },
+    {
+      "start": 426,
+      "end": 428,
+      "speaker": "DM",
+      "text": "How observant are the?"
+    },
+    {
+      "start": 429,
+      "end": 429,
+      "speaker": "DM",
+      "text": "Okay."
+    },
+    {
+      "start": 429,
+      "end": 430,
+      "speaker": "DM",
+      "text": "Okay. right, are we Re?"
+    },
+    {
+      "start": 431,
+      "end": 432,
+      "speaker": "DM",
+      "text": "To run this."
+    },
+    {
+      "start": 435,
+      "end": 435,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 440,
+      "end": 440,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 440,
+      "end": 441,
+      "speaker": "Elysium",
+      "text": "Actually, lesion."
+    },
+    {
+      "start": 443,
+      "end": 443,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 443,
+      "end": 443,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 445,
+      "end": 445,
+      "speaker": "Gordon",
+      "text": "Mm."
+    },
+    {
+      "start": 445,
+      "end": 453,
+      "speaker": "DM",
+      "text": "So? you work your magic as suddenly a slightly unstable kind of rift appears around the girl."
+    },
+    {
+      "start": 453,
+      "end": 460,
+      "speaker": "DM",
+      "text": "The people in the crowd gasp as the guards quickly turn and bring their weapons to bear as the."
+    },
+    {
+      "start": 463,
+      "end": 467,
+      "speaker": "DM",
+      "text": "Around her you see her lift and then vanish as a guard leaps at her, she disappears."
+    },
+    {
+      "start": 468,
+      "end": 477,
+      "speaker": "DM",
+      "text": "The guard lands on his face in the ground, looking around and punching the dirt itself, the other people who are wearing cows on their heads begin looking around, confused."
+    },
+    {
+      "start": 481,
+      "end": 485,
+      "speaker": "DM",
+      "text": "It is then that as people are gasping You suddenly hear a sound behind you."
+    },
+    {
+      "start": 487,
+      "end": 487,
+      "speaker": "DM",
+      "text": "As you."
+    },
+    {
+      "start": 488,
+      "end": 491,
+      "speaker": "DM",
+      "text": "As down, you see blades on either side of your neck."
+    },
+    {
+      "start": 492,
+      "end": 494,
+      "speaker": "DM",
+      "text": "And you slowly turn around."
+    },
+    {
+      "start": 495,
+      "end": 498,
+      "speaker": "DM",
+      "text": "To see an all-too-familiar face looking at you."
+    },
+    {
+      "start": 504,
+      "end": 507,
+      "speaker": "DM",
+      "text": "It looks like the fly fle."
+    },
+    {
+      "start": 507,
+      "end": 508,
+      "speaker": "DM",
+      "text": "Right into the."
+    },
+    {
+      "start": 509,
+      "end": 510,
+      "speaker": "DM",
+      "text": "The spider's web."
+    },
+    {
+      "start": 510,
+      "end": 513,
+      "speaker": "DM",
+      "text": "It is good to see you again, he."
+    },
+    {
+      "start": 514,
+      "end": 516,
+      "speaker": "DM",
+      "text": "He then leans in and whispers in your ear."
+    },
+    {
+      "start": 517,
+      "end": 519,
+      "speaker": "DM",
+      "text": "Timothy of the banana boys."
+    },
+    {
+      "start": 519,
+      "end": 519,
+      "speaker": "Gordon",
+      "text": "Mm."
+    },
+    {
+      "start": 521,
+      "end": 523,
+      "speaker": "Jimothy",
+      "text": "Yeah. my gosh, all right?"
+    },
+    {
+      "start": 523,
+      "end": 523,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 527,
+      "end": 529,
+      "speaker": "DM",
+      "text": "And that is where we will end for jimothy at this."
+    },
+    {
+      "start": 527,
+      "end": 530,
+      "speaker": "Jimothy",
+      "text": "Um. do I have time? Can I do something. Oh my gosh."
+    },
+    {
+      "start": 530,
+      "end": 531,
+      "speaker": "Elysium",
+      "text": "You?"
+    },
+    {
+      "start": 531,
+      "end": 533,
+      "speaker": "Elysium",
+      "text": "You? want to clear your shot deck?"
+    },
+    {
+      "start": 531,
+      "end": 532,
+      "speaker": "Gordon",
+      "text": "Mm. says."
+    },
+    {
+      "start": 533,
+      "end": 537,
+      "speaker": "Gordon",
+      "text": "Actually, can we reverse all those actions and just restart from the beginning."
+    },
+    {
+      "start": 539,
+      "end": 540,
+      "speaker": "Elysium",
+      "text": "Load the last save."
+    },
+    {
+      "start": 540,
+      "end": 541,
+      "speaker": "Gordon",
+      "text": "Yeah, yeah, re."
+    },
+    {
+      "start": 541,
+      "end": 541,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 542,
+      "end": 542,
+      "speaker": "Gordon",
+      "text": "I think."
+    },
+    {
+      "start": 543,
+      "end": 546,
+      "speaker": "Gordon",
+      "text": "I was an auto save in there somewhere can we just reload that?"
+    },
+    {
+      "start": 544,
+      "end": 544,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 545,
+      "end": 548,
+      "speaker": "DM",
+      "text": "So? a couple of things that I need to tell you right now that."
+    },
+    {
+      "start": 548,
+      "end": 549,
+      "speaker": "DM",
+      "text": "That are hard."
+    },
+    {
+      "start": 550,
+      "end": 550,
+      "speaker": "DM",
+      "text": "That to say."
+    },
+    {
+      "start": 552,
+      "end": 552,
+      "speaker": "Gordon",
+      "text": "Oh."
+    },
+    {
+      "start": 553,
+      "end": 554,
+      "speaker": "Gordon",
+      "text": "Oh."
+    },
+    {
+      "start": 554,
+      "end": 559,
+      "speaker": "DM",
+      "text": "This whole thing has been a trap orchestrated by Uter von Schmeck."
+    },
+    {
+      "start": 559,
+      "end": 562,
+      "speaker": "DM",
+      "text": "The route has been planned and."
+    },
+    {
+      "start": 563,
+      "end": 563,
+      "speaker": "DM",
+      "text": "And?"
+    },
+    {
+      "start": 565,
+      "end": 569,
+      "speaker": "DM",
+      "text": "And? snipers were watching all of you the entire time you're in the courtyard."
+    },
+    {
+      "start": 570,
+      "end": 576,
+      "speaker": "DM",
+      "text": "And there were bandits or whistlebrush brigands following all of you this entire time."
+    },
+    {
+      "start": 577,
+      "end": 583,
+      "speaker": "DM",
+      "text": "And utre has been present the entire time, but none of your perception roles were high enough to detect him watching."
+    },
+    {
+      "start": 583,
+      "end": 583,
+      "speaker": "Elysium",
+      "text": "How? the?"
+    },
+    {
+      "start": 584,
+      "end": 585,
+      "speaker": "Elysium",
+      "text": "How? hell, were my not high enough."
+    },
+    {
+      "start": 584,
+      "end": 584,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 585,
+      "end": 590,
+      "speaker": "Jimothy",
+      "text": "Okay. hold on. hold on. hold on. hold on. Yeah, number one, how is Seans not high enough? number two?"
+    },
+    {
+      "start": 591,
+      "end": 591,
+      "speaker": "Elysium",
+      "text": "When I?"
+    },
+    {
+      "start": 591,
+      "end": 591,
+      "speaker": "Jimothy",
+      "text": "I."
+    },
+    {
+      "start": 593,
+      "end": 596,
+      "speaker": "Elysium",
+      "text": "When never even detect the brigands around me, which I find highly unlike."
+    },
+    {
+      "start": 594,
+      "end": 595,
+      "speaker": "DM",
+      "text": "So? yours, your."
+    },
+    {
+      "start": 595,
+      "end": 595,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 595,
+      "end": 596,
+      "speaker": "Gordon",
+      "text": "Oh. roll."
+    },
+    {
+      "start": 595,
+      "end": 595,
+      "speaker": "Gordon",
+      "text": "Oh. roll."
+    },
+    {
+      "start": 596,
+      "end": 597,
+      "speaker": "Gordon",
+      "text": "Oh. roll. point."
+    },
+    {
+      "start": 597,
+      "end": 616,
+      "speaker": "DM",
+      "text": "Was initially to detect the precession moving around, that was a very high perception role when you went through so that when you detected the precession and I also asked, what are you looking for? Anything that youd be looking for you, would have seen, but you had no reason to believe that there was anybody tailing you and the brigands weren't blending in with the audience at that time."
+    },
+    {
+      "start": 617,
+      "end": 617,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 618,
+      "end": 622,
+      "speaker": "DM",
+      "text": "So? you had the brigand who was following you and."
+    },
+    {
+      "start": 623,
+      "end": 624,
+      "speaker": "DM",
+      "text": "He knew who you were."
+    },
+    {
+      "start": 624,
+      "end": 626,
+      "speaker": "DM",
+      "text": "And then the other?"
+    },
+    {
+      "start": 627,
+      "end": 634,
+      "speaker": "DM",
+      "text": "Brigands were tracking you through the hallways, so you were made from the very beginning and then they're just waiting for something to happen."
+    },
+    {
+      "start": 634,
+      "end": 638,
+      "speaker": "DM",
+      "text": "They did not see you cast the spell you did beat that Howe."
+    },
+    {
+      "start": 639,
+      "end": 642,
+      "speaker": "DM",
+      "text": "They had eyes on you and they were actually waiting for you to enter the prison."
+    },
+    {
+      "start": 643,
+      "end": 643,
+      "speaker": "DM",
+      "text": "Ah."
+    },
+    {
+      "start": 644,
+      "end": 644,
+      "speaker": "DM",
+      "text": "Ah."
+    },
+    {
+      "start": 647,
+      "end": 650,
+      "speaker": "DM",
+      "text": "Ah. she disappeared. They know you had something to do with it."
+    },
+    {
+      "start": 647,
+      "end": 647,
+      "speaker": "Jimothy",
+      "text": "I."
+    },
+    {
+      "start": 648,
+      "end": 649,
+      "speaker": "Jimothy",
+      "text": "I. hold on. hold on."
+    },
+    {
+      "start": 650,
+      "end": 651,
+      "speaker": "Jimothy",
+      "text": "No, no, no, no, but."
+    },
+    {
+      "start": 652,
+      "end": 655,
+      "speaker": "Jimothy",
+      "text": "Like if they didnt see me cast a spell. How in the world?"
+    },
+    {
+      "start": 654,
+      "end": 654,
+      "speaker": "DM",
+      "text": "Uh, oh."
+    },
+    {
+      "start": 657,
+      "end": 661,
+      "speaker": "Jimothy",
+      "text": "It doesnt make sense why they. they would automatically know its me."
+    },
+    {
+      "start": 662,
+      "end": 667,
+      "speaker": "DM",
+      "text": "There was also a luck roll that was rolled, and this is when things got really heavy, he rolled a Nat 20."
+    },
+    {
+      "start": 668,
+      "end": 670,
+      "speaker": "DM",
+      "text": "To be on you."
+    },
+    {
+      "start": 670,
+      "end": 673,
+      "speaker": "Jimothy",
+      "text": "If I take all three shots right now."
+    },
+    {
+      "start": 675,
+      "end": 676,
+      "speaker": "DM",
+      "text": "It would be for future roles."
+    },
+    {
+      "start": 677,
+      "end": 677,
+      "speaker": "Jimothy",
+      "text": "Number."
+    },
+    {
+      "start": 678,
+      "end": 678,
+      "speaker": "Jimothy",
+      "text": "Number."
+    },
+    {
+      "start": 678,
+      "end": 680,
+      "speaker": "Jimothy",
+      "text": "Number. redo that."
+    },
+    {
+      "start": 681,
+      "end": 682,
+      "speaker": "Jimothy",
+      "text": "That luck role."
+    },
+    {
+      "start": 682,
+      "end": 682,
+      "speaker": "Gordon",
+      "text": "You should."
+    },
+    {
+      "start": 682,
+      "end": 688,
+      "speaker": "Gordon",
+      "text": "You him, do it, Eric, because this would be entertaining for us. This would be entertaining for us, Eric. come on."
+    },
+    {
+      "start": 683,
+      "end": 685,
+      "speaker": "Jimothy",
+      "text": "Let me do it. let me do it."
+    },
+    {
+      "start": 687,
+      "end": 691,
+      "speaker": "Jimothy",
+      "text": "Data Entertainment Factor, It would be off the charts, three shots all at once."
+    },
+    {
+      "start": 689,
+      "end": 689,
+      "speaker": "DM",
+      "text": "Guys."
+    },
+    {
+      "start": 691,
+      "end": 692,
+      "speaker": "DM",
+      "text": "Guys. is a?"
+    },
+    {
+      "start": 692,
+      "end": 694,
+      "speaker": "Jimothy",
+      "text": "I do not want to deal with this guy."
+    },
+    {
+      "start": 692,
+      "end": 694,
+      "speaker": "DM",
+      "text": "A very very R."
+    },
+    {
+      "start": 695,
+      "end": 698,
+      "speaker": "DM",
+      "text": "And hard moment that has happened here."
+    },
+    {
+      "start": 699,
+      "end": 699,
+      "speaker": "DM",
+      "text": "And?"
+    },
+    {
+      "start": 700,
+      "end": 702,
+      "speaker": "Gordon",
+      "text": "Let them do it because itd be so fun."
+    },
+    {
+      "start": 701,
+      "end": 703,
+      "speaker": "Jimothy",
+      "text": "Let me do it. let me do it all three shots."
+    },
+    {
+      "start": 702,
+      "end": 712,
+      "speaker": "DM",
+      "text": "And? guys, this, this is going to be okay. Im going to. I want? I want to just add this in here, because ultimately the point of this is to have fun, but at the same time."
+    },
+    {
+      "start": 704,
+      "end": 705,
+      "speaker": "Jimothy",
+      "text": "Ill throw in a fourth."
+    },
+    {
+      "start": 713,
+      "end": 714,
+      "speaker": "DM",
+      "text": "There's the integrity of it."
+    },
+    {
+      "start": 716,
+      "end": 720,
+      "speaker": "DM",
+      "text": "There's the storytelling aspect and there's the things that are happening."
+    },
+    {
+      "start": 717,
+      "end": 719,
+      "speaker": "Gordon",
+      "text": "Thats why theres the shots for the integrity."
+    },
+    {
+      "start": 718,
+      "end": 721,
+      "speaker": "Jimothy",
+      "text": "Thats why theres the shots. The shots are the fun part."
+    },
+    {
+      "start": 722,
+      "end": 734,
+      "speaker": "DM",
+      "text": "So there were multiple indications as to what was going on? so it made it a very high risk, move, so I feel like i, I would be okay with possibly redoing, this would be a d, M intervention moment, though."
+    },
+    {
+      "start": 735,
+      "end": 735,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 737,
+      "end": 748,
+      "speaker": "DM",
+      "text": "So? can do that, but is that what you guys want this game to be, do you want your characters to never be in any present danger, because I feel like something will be lost from the game if we do that."
+    },
+    {
+      "start": 737,
+      "end": 737,
+      "speaker": "Gordon",
+      "text": "Please."
+    },
+    {
+      "start": 746,
+      "end": 746,
+      "speaker": "Jimothy",
+      "text": "That."
+    },
+    {
+      "start": 746,
+      "end": 746,
+      "speaker": "Jimothy",
+      "text": "That."
+    },
+    {
+      "start": 750,
+      "end": 751,
+      "speaker": "Jimothy",
+      "text": "That. word never."
+    },
+    {
+      "start": 751,
+      "end": 761,
+      "speaker": "Jimothy",
+      "text": "Is operative there and No, I definitely want our characters to be in danger at times and we just got out of a major dangerous adventure, Um?"
+    },
+    {
+      "start": 761,
+      "end": 772,
+      "speaker": "Jimothy",
+      "text": "Multiple major dangerous adventures, and we're about to go into like we have a plan for what we're going into next and this would totally ruin all of that and so um?"
+    },
+    {
+      "start": 771,
+      "end": 775,
+      "speaker": "DM",
+      "text": "Which was a calculated risk I will say with?"
+    },
+    {
+      "start": 772,
+      "end": 773,
+      "speaker": "Jimothy",
+      "text": "Yes."
+    },
+    {
+      "start": 776,
+      "end": 776,
+      "speaker": "Jimothy",
+      "text": "Yes."
+    },
+    {
+      "start": 777,
+      "end": 777,
+      "speaker": "DM",
+      "text": "With the entire maneuver."
+    },
+    {
+      "start": 777,
+      "end": 786,
+      "speaker": "Jimothy",
+      "text": "Yes. the, the risk was tracking and trying to see what happened like i was trying to mitigate the risk by not going into the prison because I knew they were."
+    },
+    {
+      "start": 777,
+      "end": 777,
+      "speaker": "Jimothy",
+      "text": "Yes."
+    },
+    {
+      "start": 787,
+      "end": 789,
+      "speaker": "Jimothy",
+      "text": "Tracking me and so."
+    },
+    {
+      "start": 790,
+      "end": 793,
+      "speaker": "Jimothy",
+      "text": "I was trying to do the right thing by by doing something."
+    },
+    {
+      "start": 794,
+      "end": 794,
+      "speaker": "Jimothy",
+      "text": "But"
+    },
+    {
+      "start": 796,
+      "end": 797,
+      "speaker": "Jimothy",
+      "text": "But but anyway?"
+    },
+    {
+      "start": 797,
+      "end": 803,
+      "speaker": "Jimothy",
+      "text": "But but can see I was. I was belaboring the point and trying to figure out how I was going to, Um?"
+    },
+    {
+      "start": 804,
+      "end": 809,
+      "speaker": "Jimothy",
+      "text": "Not risk my hide, because that entire time, I was saying I didn't want to do this so."
+    },
+    {
+      "start": 808,
+      "end": 808,
+      "speaker": "DM",
+      "text": "I, I."
+    },
+    {
+      "start": 809,
+      "end": 811,
+      "speaker": "DM",
+      "text": "I, get that, I get that. I get that."
+    },
+    {
+      "start": 810,
+      "end": 810,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 812,
+      "end": 812,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 812,
+      "end": 812,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 813,
+      "end": 823,
+      "speaker": "DM",
+      "text": "But it was clear that you were made, you had a sniper aiming at you from the rooftops, you had multiple guards recognize you people following you and then you're at the front of the prison, and this happens."
+    },
+    {
+      "start": 820,
+      "end": 820,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 821,
+      "end": 831,
+      "speaker": "Jimothy",
+      "text": "Um. well, obviously, obviously, hindsight hindsight is 2020, I didnt know all of those details, I thought it was a scope? I thought they were whistlebrush brigands any?"
+    },
+    {
+      "start": 831,
+      "end": 842,
+      "speaker": "DM",
+      "text": "And all of this was a trap carefully made to capture you guys, and you fell right into it so from a storytelling aspect, by all rights, Jimothy is cooked. in this sense, however."
+    },
+    {
+      "start": 843,
+      "end": 843,
+      "speaker": "DM",
+      "text": "I am."
+    },
+    {
+      "start": 843,
+      "end": 845,
+      "speaker": "DM",
+      "text": "I to doing a Dm intervention because."
+    },
+    {
+      "start": 846,
+      "end": 847,
+      "speaker": "DM",
+      "text": "I don't want."
+    },
+    {
+      "start": 848,
+      "end": 850,
+      "speaker": "DM",
+      "text": "I want everyone to have fun at the end, but I."
+    },
+    {
+      "start": 852,
+      "end": 855,
+      "speaker": "DM",
+      "text": "I am calling it out that this is a Dm intervention and."
+    },
+    {
+      "start": 857,
+      "end": 859,
+      "speaker": "DM",
+      "text": "Personally, like not keen on it."
+    },
+    {
+      "start": 860,
+      "end": 861,
+      "speaker": "DM",
+      "text": "But we can do that."
+    },
+    {
+      "start": 862,
+      "end": 863,
+      "speaker": "DM",
+      "text": "How do?"
+    },
+    {
+      "start": 863,
+      "end": 864,
+      "speaker": "DM",
+      "text": "All feel."
+    },
+    {
+      "start": 868,
+      "end": 868,
+      "speaker": "Gordon",
+      "text": "Please."
+    },
+    {
+      "start": 869,
+      "end": 870,
+      "speaker": "Gordon",
+      "text": "Please. mean in."
+    },
+    {
+      "start": 870,
+      "end": 870,
+      "speaker": "Jimothy",
+      "text": "My."
+    },
+    {
+      "start": 871,
+      "end": 872,
+      "speaker": "Jimothy",
+      "text": "My. vote is for the D M. intervention."
+    },
+    {
+      "start": 871,
+      "end": 871,
+      "speaker": "Gordon",
+      "text": "And?"
+    },
+    {
+      "start": 872,
+      "end": 876,
+      "speaker": "Gordon",
+      "text": "And? i know I know what your vote is, so my vote is."
+    },
+    {
+      "start": 876,
+      "end": 876,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 876,
+      "end": 881,
+      "speaker": "Gordon",
+      "text": "This is right now not involving Alicia Murgordon and."
+    },
+    {
+      "start": 882,
+      "end": 883,
+      "speaker": "Gordon",
+      "text": "So?"
+    },
+    {
+      "start": 884,
+      "end": 884,
+      "speaker": "Gordon",
+      "text": "So?"
+    },
+    {
+      "start": 885,
+      "end": 889,
+      "speaker": "Gordon",
+      "text": "So? know Sean may feel differently, but in my opinion, I'm like this is kind of between?"
+    },
+    {
+      "start": 890,
+      "end": 898,
+      "speaker": "Gordon",
+      "text": "And the Dm, and how this situation is handled. I have come to terms with the idea of Gordon dying, I."
+    },
+    {
+      "start": 898,
+      "end": 914,
+      "speaker": "Gordon",
+      "text": "I hope he doesn't, but like if he does then like, I want those threats still to still be present, but also I have backup characters that would make our our game a living nightmare, so maybe thatll also be some deterrence, but you know if this is how?"
+    },
+    {
+      "start": 915,
+      "end": 920,
+      "speaker": "Gordon",
+      "text": "In a separate, like if we were all together in a group, i would have more an opinion on it because it would."
+    },
+    {
+      "start": 921,
+      "end": 922,
+      "speaker": "Gordon",
+      "text": "I feel like."
+    },
+    {
+      "start": 923,
+      "end": 928,
+      "speaker": "Gordon",
+      "text": "My gameplay slash gordons gameplay more directly, but because this is, you know with Ji."
+    },
+    {
+      "start": 929,
+      "end": 930,
+      "speaker": "Gordon",
+      "text": "Im like."
+    },
+    {
+      "start": 930,
+      "end": 936,
+      "speaker": "Gordon",
+      "text": "If he wants to take shots, and this is his version of fun, I mean, Im not there. i dont care like, and thats my opinion, but."
+    },
+    {
+      "start": 941,
+      "end": 947,
+      "speaker": "Elysium",
+      "text": "I would say I completely agree and side with Tucker on this, and I will just say out of a non."
+    },
+    {
+      "start": 942,
+      "end": 942,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 948,
+      "end": 951,
+      "speaker": "Elysium",
+      "text": "Decisional comment in this situation that."
+    },
+    {
+      "start": 951,
+      "end": 955,
+      "speaker": "Elysium",
+      "text": "If it was me, I would be completely against demon intervention, and just."
+    },
+    {
+      "start": 956,
+      "end": 957,
+      "speaker": "Elysium",
+      "text": "Let it ride."
+    },
+    {
+      "start": 956,
+      "end": 956,
+      "speaker": "DM",
+      "text": "Nor."
+    },
+    {
+      "start": 957,
+      "end": 960,
+      "speaker": "DM",
+      "text": "Nor. am completely against D. M intervention as well."
+    },
+    {
+      "start": 958,
+      "end": 959,
+      "speaker": "Elysium",
+      "text": "Like last night?"
+    },
+    {
+      "start": 960,
+      "end": 966,
+      "speaker": "Elysium",
+      "text": "Like last night I walked through, i let myself get dragged into the witch witch hunters organization, whatever to go through."
+    },
+    {
+      "start": 965,
+      "end": 965,
+      "speaker": "Gordon",
+      "text": "Yeah."
+    },
+    {
+      "start": 966,
+      "end": 968,
+      "speaker": "Elysium",
+      "text": "Now I say that insane, thats just me."
+    },
+    {
+      "start": 967,
+      "end": 975,
+      "speaker": "Gordon",
+      "text": "Yeah. gordon would do the same. Yeah, gordon would do the same, but thats also how I am as a player, because I have backups ready so."
+    },
+    {
+      "start": 970,
+      "end": 972,
+      "speaker": "Elysium",
+      "text": "Oh yeah, like."
+    },
+    {
+      "start": 972,
+      "end": 973,
+      "speaker": "Elysium",
+      "text": "Oh i said I know."
+    },
+    {
+      "start": 973,
+      "end": 984,
+      "speaker": "Elysium",
+      "text": "We have different. We are different players, and we have different thoughts and opinions on this, so like i said I agree with tucker, though that, this is more so, not directly involving us at the moment, at least, so youtub."
+    },
+    {
+      "start": 975,
+      "end": 976,
+      "speaker": "Gordon",
+      "text": "Yeah."
+    },
+    {
+      "start": 976,
+      "end": 976,
+      "speaker": "Gordon",
+      "text": "Yeah."
+    },
+    {
+      "start": 983,
+      "end": 987,
+      "speaker": "Gordon",
+      "text": "Yeah. we were there. I would have more to say, but im not so."
+    },
+    {
+      "start": 986,
+      "end": 986,
+      "speaker": "Elysium",
+      "text": "A."
+    },
+    {
+      "start": 989,
+      "end": 990,
+      "speaker": "Jimothy",
+      "text": "Yeah. will say."
+    },
+    {
+      "start": 989,
+      "end": 989,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 991,
+      "end": 991,
+      "speaker": "Jimothy",
+      "text": "The."
+    },
+    {
+      "start": 991,
+      "end": 993,
+      "speaker": "Jimothy",
+      "text": "The. why? I?"
+    },
+    {
+      "start": 994,
+      "end": 998,
+      "speaker": "Jimothy",
+      "text": "I. this guy is because Ive ive done exactly what you."
+    },
+    {
+      "start": 994,
+      "end": 994,
+      "speaker": "Jimothy",
+      "text": "I."
+    },
+    {
+      "start": 999,
+      "end": 1001,
+      "speaker": "Jimothy",
+      "text": "You saying? Um, you know I."
+    },
+    {
+      "start": 1000,
+      "end": 1006,
+      "speaker": "DM",
+      "text": "So at the same time, you knew what you were getting into getting close to the prison and making a move against it."
+    },
+    {
+      "start": 1004,
+      "end": 1005,
+      "speaker": "Jimothy",
+      "text": "Ex."
+    },
+    {
+      "start": 1006,
+      "end": 1009,
+      "speaker": "Jimothy",
+      "text": "Ex. me, D, M, Id like to say my piece."
+    },
+    {
+      "start": 1007,
+      "end": 1008,
+      "speaker": "DM",
+      "text": "Just saying."
+    },
+    {
+      "start": 1008,
+      "end": 1008,
+      "speaker": "Gordon",
+      "text": "Okay."
+    },
+    {
+      "start": 1009,
+      "end": 1009,
+      "speaker": "Elysium",
+      "text": "A."
+    },
+    {
+      "start": 1009,
+      "end": 1015,
+      "speaker": "Elysium",
+      "text": "A. for reference and lazy, Im dealt with him last night as well, you guys werent aware of that because we havent had good conversation."
+    },
+    {
+      "start": 1010,
+      "end": 1011,
+      "speaker": "Jimothy",
+      "text": "Ah, ah."
+    },
+    {
+      "start": 1014,
+      "end": 1026,
+      "speaker": "DM",
+      "text": "Felicium meet with them, also, Sean. what utor was whispering and chatting with that guard about saying, do not fuck this up for me were only getting one shot at it, this is exactly what he was talking about."
+    },
+    {
+      "start": 1016,
+      "end": 1016,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 1016,
+      "end": 1016,
+      "speaker": "Elysium",
+      "text": "So?"
+    },
+    {
+      "start": 1025,
+      "end": 1025,
+      "speaker": "Elysium",
+      "text": "So?"
+    },
+    {
+      "start": 1028,
+      "end": 1028,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 1030,
+      "end": 1035,
+      "speaker": "Jimothy",
+      "text": "Okay. why I had an encounter with uter before is because I, I."
+    },
+    {
+      "start": 1030,
+      "end": 1030,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 1035,
+      "end": 1036,
+      "speaker": "Jimothy",
+      "text": "I just."
+    },
+    {
+      "start": 1037,
+      "end": 1040,
+      "speaker": "Jimothy",
+      "text": "For it, you know, and and just did the jimothy thing, um?"
+    },
+    {
+      "start": 1043,
+      "end": 1049,
+      "speaker": "Jimothy",
+      "text": "I don't want to have like a round two of trying to figure out how to get out of the dungeon like."
+    },
+    {
+      "start": 1049,
+      "end": 1052,
+      "speaker": "Jimothy",
+      "text": "For me, that's not fun, because."
+    },
+    {
+      "start": 1053,
+      "end": 1055,
+      "speaker": "Jimothy",
+      "text": "You know we're we're trying to."
+    },
+    {
+      "start": 1056,
+      "end": 1056,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 1056,
+      "end": 1057,
+      "speaker": "Elysium",
+      "text": "So? too much."
+    },
+    {
+      "start": 1058,
+      "end": 1058,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 1059,
+      "end": 1062,
+      "speaker": "Elysium",
+      "text": "I think I was too much talking, I was just joking, though."
+    },
+    {
+      "start": 1060,
+      "end": 1061,
+      "speaker": "DM",
+      "text": "Unk."
+    },
+    {
+      "start": 1061,
+      "end": 1062,
+      "speaker": "Jimothy",
+      "text": "Um. yeah, well, yeah."
+    },
+    {
+      "start": 1062,
+      "end": 1064,
+      "speaker": "Jimothy",
+      "text": "Yeah, its a lot lot talking, but mainly."
+    },
+    {
+      "start": 1065,
+      "end": 1070,
+      "speaker": "Jimothy",
+      "text": "Like for me, I like it when were all together and doing stuff and?"
+    },
+    {
+      "start": 1071,
+      "end": 1071,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 1072,
+      "end": 1081,
+      "speaker": "Jimothy",
+      "text": "Um. the the last encounter that I had with Dvan Schmack required like multiple solo rounds, just between me and Eric, and so, um?"
+    },
+    {
+      "start": 1072,
+      "end": 1072,
+      "speaker": "DM",
+      "text": "Unk."
+    },
+    {
+      "start": 1080,
+      "end": 1081,
+      "speaker": "DM",
+      "text": "Unk. will."
+    },
+    {
+      "start": 1082,
+      "end": 1086,
+      "speaker": "DM",
+      "text": "Add that that may not be how it pans out this time?"
+    },
+    {
+      "start": 1086,
+      "end": 1091,
+      "speaker": "DM",
+      "text": "What we would likely do are some roles to determine Jimothy's fate and."
+    },
+    {
+      "start": 1091,
+      "end": 1093,
+      "speaker": "DM",
+      "text": "And that might?"
+    },
+    {
+      "start": 1093,
+      "end": 1094,
+      "speaker": "DM",
+      "text": "Be it."
+    },
+    {
+      "start": 1097,
+      "end": 1101,
+      "speaker": "DM",
+      "text": "This could actually be the death of Jimothy, or the disappearance of Jimothy."
+    },
+    {
+      "start": 1102,
+      "end": 1103,
+      "speaker": "DM",
+      "text": "So this is?"
+    },
+    {
+      "start": 1102,
+      "end": 1105,
+      "speaker": "Jimothy",
+      "text": "Okay, then, in that case, I very much would like a D. M intervention like."
+    },
+    {
+      "start": 1103,
+      "end": 1111,
+      "speaker": "DM",
+      "text": "Ah, this is a. very. Let me, emphasize, this is a very grave scenario, He has lost you once before, and he?"
+    },
+    {
+      "start": 1111,
+      "end": 1113,
+      "speaker": "DM",
+      "text": "He does not want to lose you again and."
+    },
+    {
+      "start": 1113,
+      "end": 1114,
+      "speaker": "DM",
+      "text": "And he?"
+    },
+    {
+      "start": 1115,
+      "end": 1116,
+      "speaker": "DM",
+      "text": "And going to take his time."
+    },
+    {
+      "start": 1117,
+      "end": 1117,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 1118,
+      "end": 1119,
+      "speaker": "Jimothy",
+      "text": "Yeah. okay, then, in that case."
+    },
+    {
+      "start": 1125,
+      "end": 1139,
+      "speaker": "Elysium",
+      "text": "I will say well, I will say this that, if this does turn out that way then, under absolutely zero circumstances ever again in the future, you're allowed to go off and do anything that impacts the party on your own in solo sessions, as you have done in the past."
+    },
+    {
+      "start": 1126,
+      "end": 1126,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 1129,
+      "end": 1135,
+      "speaker": "Gordon",
+      "text": "Okay. like its about to be pretty more entertaining for me and Sean to watch you take the shots, though, then, youre about to have fun, so."
+    },
+    {
+      "start": 1134,
+      "end": 1134,
+      "speaker": "Gordon",
+      "text": "Okay."
+    },
+    {
+      "start": 1138,
+      "end": 1139,
+      "speaker": "DM",
+      "text": "I do feel."
+    },
+    {
+      "start": 1140,
+      "end": 1142,
+      "speaker": "DM",
+      "text": "Like there should be some kind of a compromise because."
+    },
+    {
+      "start": 1143,
+      "end": 1143,
+      "speaker": "DM",
+      "text": "Ah."
+    },
+    {
+      "start": 1144,
+      "end": 1167,
+      "speaker": "DM",
+      "text": "Ah. you do separate from the group ive Ive hammered down on this a few times the majority of player deaths happen when you separate the party, so that, is a background threat Every time you guys separate, add in trying to be sneaky add in trying to be sneaky against people who you know want to kill you? Add in trying to be sneaky against people who want to kill you when they have already identified you as who you are and they have snipers on you."
+    },
+    {
+      "start": 1153,
+      "end": 1153,
+      "speaker": "Jimothy",
+      "text": "Yeah. ya."
+    },
+    {
+      "start": 1168,
+      "end": 1173,
+      "speaker": "DM",
+      "text": "So add in all those extra layers of threats, and it was a very dangerous move to cast that spell."
+    },
+    {
+      "start": 1169,
+      "end": 1169,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 1174,
+      "end": 1175,
+      "speaker": "DM",
+      "text": "Um. why after?"
+    },
+    {
+      "start": 1174,
+      "end": 1174,
+      "speaker": "DM",
+      "text": "Um."
+    },
+    {
+      "start": 1175,
+      "end": 1179,
+      "speaker": "DM",
+      "text": "After I say that, there's a couple different options here we can."
+    },
+    {
+      "start": 1180,
+      "end": 1187,
+      "speaker": "DM",
+      "text": "Can try to do. I don't like the idea of doing a mulligan, where we just reroll everything i dont want to do that. thats just too much."
+    },
+    {
+      "start": 1188,
+      "end": 1195,
+      "speaker": "DM",
+      "text": "But there is the intervention where jimothys, life can be preserved, but there will still be consequences of what has just happened?"
+    },
+    {
+      "start": 1202,
+      "end": 1202,
+      "speaker": "DM",
+      "text": "Which?"
+    },
+    {
+      "start": 1202,
+      "end": 1204,
+      "speaker": "Jimothy",
+      "text": "Okay. you said that there were options. what are the options?"
+    },
+    {
+      "start": 1203,
+      "end": 1217,
+      "speaker": "DM",
+      "text": "Which? so option one, which I am very sternly against is just calling a mulligan and redoing it. In fact, I'm like, very, very much, not a fan of it, and i would want everybody to be completely on board if we were to do that because that's."
+    },
+    {
+      "start": 1217,
+      "end": 1219,
+      "speaker": "DM",
+      "text": "That's just rough then."
+    },
+    {
+      "start": 1220,
+      "end": 1226,
+      "speaker": "DM",
+      "text": "Two would be Dm intervention where something is going to happen where jimothy is going to be preserved and saved."
+    },
+    {
+      "start": 1227,
+      "end": 1233,
+      "speaker": "DM",
+      "text": "But the game continues on with consequences of what just happened, What just happened happened."
+    },
+    {
+      "start": 1233,
+      "end": 1237,
+      "speaker": "DM",
+      "text": "But Jimothy need not be captured as a result of it that I."
+    },
+    {
+      "start": 1237,
+      "end": 1239,
+      "speaker": "DM",
+      "text": "Find much more palatable and full."
+    },
+    {
+      "start": 1241,
+      "end": 1241,
+      "speaker": "DM",
+      "text": "Mulligan."
+    },
+    {
+      "start": 1242,
+      "end": 1242,
+      "speaker": "DM",
+      "text": "Mulligan."
+    },
+    {
+      "start": 1243,
+      "end": 1244,
+      "speaker": "DM",
+      "text": "Mulligan. other one is that we just play it."
+    },
+    {
+      "start": 1245,
+      "end": 1246,
+      "speaker": "DM",
+      "text": "And we?"
+    },
+    {
+      "start": 1247,
+      "end": 1249,
+      "speaker": "DM",
+      "text": "And do the roles and figure out what happens to Jimothy?"
+    },
+    {
+      "start": 1252,
+      "end": 1252,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 1253,
+      "end": 1253,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 1254,
+      "end": 1254,
+      "speaker": "Jimothy",
+      "text": "Okay."
+    },
+    {
+      "start": 1254,
+      "end": 1256,
+      "speaker": "Jimothy",
+      "text": "Okay. my."
+    },
+    {
+      "start": 1257,
+      "end": 1261,
+      "speaker": "Jimothy",
+      "text": "Okay. my. is to not play it, because thats what we were just talking about? Um?"
+    },
+    {
+      "start": 1261,
+      "end": 1263,
+      "speaker": "Jimothy",
+      "text": "And I will say I."
+    },
+    {
+      "start": 1262,
+      "end": 1262,
+      "speaker": "DM",
+      "text": "Mmh."
+    },
+    {
+      "start": 1263,
+      "end": 1268,
+      "speaker": "Jimothy",
+      "text": "Like I said this entire time, i didnt want to go off on my own like I, we had."
+    },
+    {
+      "start": 1268,
+      "end": 1271,
+      "speaker": "Elysium",
+      "text": "You dont have to you make your own decisions, though man."
+    },
+    {
+      "start": 1269,
+      "end": 1270,
+      "speaker": "Jimothy",
+      "text": "Talked."
+    },
+    {
+      "start": 1270,
+      "end": 1271,
+      "speaker": "Jimothy",
+      "text": "Talked. i."
+    },
+    {
+      "start": 1271,
+      "end": 1272,
+      "speaker": "DM",
+      "text": "Mmh. this."
+    },
+    {
+      "start": 1271,
+      "end": 1277,
+      "speaker": "Jimothy",
+      "text": "Talked. i. i know, but Im. oh, hold on, let me just explain myself so like."
+    },
+    {
+      "start": 1273,
+      "end": 1276,
+      "speaker": "DM",
+      "text": "Mmh. this. is also like Go ahead, Go ahead, Go ahead."
+    },
+    {
+      "start": 1278,
+      "end": 1284,
+      "speaker": "Jimothy",
+      "text": "I. trying to be a team player and investigate this thing because it happened, and you know we were like Okay, Have some."
+    },
+    {
+      "start": 1278,
+      "end": 1278,
+      "speaker": "Jimothy",
+      "text": "I."
+    },
+    {
+      "start": 1284,
+      "end": 1290,
+      "speaker": "Jimothy",
+      "text": "Go off and then I was like okay, ill volunteer Jimothy, because hes good at like being sneaky, so that thats that."
+    },
+    {
+      "start": 1291,
+      "end": 1291,
+      "speaker": "DM",
+      "text": "Mm."
+    },
+    {
+      "start": 1291,
+      "end": 1298,
+      "speaker": "Jimothy",
+      "text": "Thats why I did this. It wasn't because I wanted to go off and like, be a hero on my own like that's not i wanted to do, but anyway."
+    },
+    {
+      "start": 1297,
+      "end": 1300,
+      "speaker": "DM",
+      "text": "Mm. you took taking the risk with that as well, yeah."
+    },
+    {
+      "start": 1300,
+      "end": 1300,
+      "speaker": "Jimothy",
+      "text": "Yes."
+    },
+    {
+      "start": 1302,
+      "end": 1304,
+      "speaker": "Jimothy",
+      "text": "Yes. i if."
+    },
+    {
+      "start": 1305,
+      "end": 1307,
+      "speaker": "Jimothy",
+      "text": "If Id known this was the risk Eric, I wouldnt have taken it."
+    },
+    {
+      "start": 1308,
+      "end": 1310,
+      "speaker": "DM",
+      "text": "You had a sniper on you, and you had."
+    },
+    {
+      "start": 1308,
+      "end": 1310,
+      "speaker": "Jimothy",
+      "text": "You know, so like I like."
+    },
+    {
+      "start": 1309,
+      "end": 1310,
+      "speaker": "Elysium",
+      "text": "I mean."
+    },
+    {
+      "start": 1311,
+      "end": 1312,
+      "speaker": "Jimothy",
+      "text": "Yeah. you keep."
+    },
+    {
+      "start": 1311,
+      "end": 1311,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 1311,
+      "end": 1312,
+      "speaker": "DM",
+      "text": "Had multiple cards."
+    },
+    {
+      "start": 1312,
+      "end": 1318,
+      "speaker": "Jimothy",
+      "text": "Repeating that, but like if I had known the risk, obviously, I wouldn't have done it so like i didn't understand that. Um, but."
+    },
+    {
+      "start": 1317,
+      "end": 1318,
+      "speaker": "DM",
+      "text": "But its."
+    },
+    {
+      "start": 1317,
+      "end": 1317,
+      "speaker": "DM",
+      "text": "But"
+    },
+    {
+      "start": 1319,
+      "end": 1319,
+      "speaker": "Jimothy",
+      "text": "But"
+    },
+    {
+      "start": 1320,
+      "end": 1330,
+      "speaker": "DM",
+      "text": "But its. add on to that its a rule that I try to adhere to that, if a character ever does die, It is in relation to decisions made, and this definitely falls underneath that umbrella 100%"
+    },
+    {
+      "start": 1321,
+      "end": 1321,
+      "speaker": "Jimothy",
+      "text": "But"
+    },
+    {
+      "start": 1321,
+      "end": 1321,
+      "speaker": "Jimothy",
+      "text": "But"
+    },
+    {
+      "start": 1331,
+      "end": 1331,
+      "speaker": "DM",
+      "text": "But continue."
+    },
+    {
+      "start": 1334,
+      "end": 1335,
+      "speaker": "Jimothy",
+      "text": "But so?"
+    },
+    {
+      "start": 1336,
+      "end": 1336,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 1337,
+      "end": 1342,
+      "speaker": "Jimothy",
+      "text": "Um. so, with all that said, obviously i dont want to go through with how."
+    },
+    {
+      "start": 1342,
+      "end": 1344,
+      "speaker": "Jimothy",
+      "text": "How it is right now?"
+    },
+    {
+      "start": 1345,
+      "end": 1353,
+      "speaker": "Jimothy",
+      "text": "Um, honestly, my preference would be the mulligan, because I think option two that you described with consequences would have a broader effect on the party."
+    },
+    {
+      "start": 1353,
+      "end": 1354,
+      "speaker": "Jimothy",
+      "text": "Um, and?"
+    },
+    {
+      "start": 1355,
+      "end": 1355,
+      "speaker": "Jimothy",
+      "text": "And?"
+    },
+    {
+      "start": 1356,
+      "end": 1359,
+      "speaker": "Jimothy",
+      "text": "And? the other things that we were trying to accomplish and?"
+    },
+    {
+      "start": 1360,
+      "end": 1360,
+      "speaker": "Jimothy",
+      "text": "It would."
+    },
+    {
+      "start": 1361,
+      "end": 1363,
+      "speaker": "Jimothy",
+      "text": "It alert them to."
+    },
+    {
+      "start": 1364,
+      "end": 1367,
+      "speaker": "Jimothy",
+      "text": "Banana Boy involvement with the deluge right now."
+    },
+    {
+      "start": 1368,
+      "end": 1368,
+      "speaker": "Jimothy",
+      "text": "Which?"
+    },
+    {
+      "start": 1368,
+      "end": 1368,
+      "speaker": "DM",
+      "text": "Unk."
+    },
+    {
+      "start": 1369,
+      "end": 1375,
+      "speaker": "Jimothy",
+      "text": "Which? totally destroy everything that we were trying to do because the the grudgebreaker isn't getting there for another few days, so."
+    },
+    {
+      "start": 1374,
+      "end": 1374,
+      "speaker": "DM",
+      "text": "Unk."
+    },
+    {
+      "start": 1375,
+      "end": 1380,
+      "speaker": "DM",
+      "text": "Unk. that he knew exactly who you were theres a possibility he already knows about?"
+    },
+    {
+      "start": 1382,
+      "end": 1383,
+      "speaker": "DM",
+      "text": "The Banana Boys involvement."
+    },
+    {
+      "start": 1384,
+      "end": 1391,
+      "speaker": "Elysium",
+      "text": "And theres ill say, theres also no guarantee that he has the support of the rest of the people behind him doing this."
+    },
+    {
+      "start": 1392,
+      "end": 1405,
+      "speaker": "DM",
+      "text": "So this happening is not going to upturn the entire storyline, if thats what youre worried about? I mean, sure, its going to add some interesting elements to it, but its not going to ruin the game, theres no such thing as that."
+    },
+    {
+      "start": 1408,
+      "end": 1408,
+      "speaker": "DM",
+      "text": "But yeah?"
+    },
+    {
+      "start": 1409,
+      "end": 1410,
+      "speaker": "DM",
+      "text": "Okay, So?"
+    },
+    {
+      "start": 1409,
+      "end": 1410,
+      "speaker": "Jimothy",
+      "text": "Okay, all right."
+    },
+    {
+      "start": 1410,
+      "end": 1413,
+      "speaker": "Jimothy",
+      "text": "Look if thats the case, Im totally fine with going with option two."
+    },
+    {
+      "start": 1411,
+      "end": 1411,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1413,
+      "end": 1414,
+      "speaker": "DM",
+      "text": "So? every."
+    },
+    {
+      "start": 1413,
+      "end": 1413,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1417,
+      "end": 1418,
+      "speaker": "DM",
+      "text": "How do we feel after all this discussion?"
+    },
+    {
+      "start": 1419,
+      "end": 1420,
+      "speaker": "DM",
+      "text": "This is a."
+    },
+    {
+      "start": 1421,
+      "end": 1423,
+      "speaker": "DM",
+      "text": "A mind check of how."
+    },
+    {
+      "start": 1424,
+      "end": 1425,
+      "speaker": "DM",
+      "text": "Everyones feeling."
+    },
+    {
+      "start": 1426,
+      "end": 1426,
+      "speaker": "DM",
+      "text": "Let."
+    },
+    {
+      "start": 1428,
+      "end": 1429,
+      "speaker": "DM",
+      "text": "Let. with Sean, Sean, how you feeling?"
+    },
+    {
+      "start": 1432,
+      "end": 1433,
+      "speaker": "Elysium",
+      "text": "Lets see."
+    },
+    {
+      "start": 1434,
+      "end": 1435,
+      "speaker": "Jimothy",
+      "text": "By the."
+    },
+    {
+      "start": 1436,
+      "end": 1439,
+      "speaker": "Jimothy",
+      "text": "Quick question, Eric. who is the Spaniard dude?"
+    },
+    {
+      "start": 1440,
+      "end": 1441,
+      "speaker": "Jimothy",
+      "text": "I was talking to."
+    },
+    {
+      "start": 1441,
+      "end": 1441,
+      "speaker": "Elysium",
+      "text": "Just."
+    },
+    {
+      "start": 1442,
+      "end": 1444,
+      "speaker": "DM",
+      "text": "He is a whistlebrush brigand. you can."
+    },
+    {
+      "start": 1444,
+      "end": 1449,
+      "speaker": "DM",
+      "text": "You can, you can talk to him later. If you want, maybe youll see him at the bar. you can ask him his name. Hey, you, Sn."
+    },
+    {
+      "start": 1449,
+      "end": 1449,
+      "speaker": "DM",
+      "text": "Snitchy."
+    },
+    {
+      "start": 1451,
+      "end": 1452,
+      "speaker": "DM",
+      "text": "Snitchy. got a?"
+    },
+    {
+      "start": 1452,
+      "end": 1453,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 1453,
+      "end": 1454,
+      "speaker": "DM",
+      "text": "Score to settle."
+    },
+    {
+      "start": 1453,
+      "end": 1453,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 1454,
+      "end": 1456,
+      "speaker": "Elysium",
+      "text": "Just. hes a brigand that we havent come across before."
+    },
+    {
+      "start": 1458,
+      "end": 1461,
+      "speaker": "DM",
+      "text": "Okay, and also just add in being it."
+    },
+    {
+      "start": 1461,
+      "end": 1475,
+      "speaker": "DM",
+      "text": "It comes with the nature of being a chaotic character, that chaos happens to you, and this is a byproduct of chaos is potentially dying or getting hurt or something misadventure coming up. So what play to his character ride?"
+    },
+    {
+      "start": 1476,
+      "end": 1477,
+      "speaker": "DM",
+      "text": "On and?"
+    },
+    {
+      "start": 1478,
+      "end": 1482,
+      "speaker": "Jimothy",
+      "text": "Yeah. weve already established were not going with it, you dont have to keep selling it."
+    },
+    {
+      "start": 1478,
+      "end": 1478,
+      "speaker": "DM",
+      "text": "And?"
+    },
+    {
+      "start": 1480,
+      "end": 1480,
+      "speaker": "Elysium",
+      "text": "Okay."
+    },
+    {
+      "start": 1480,
+      "end": 1489,
+      "speaker": "DM",
+      "text": "And? know, but don't don't let this reflect on you Don't feel like you, Matt Moore had made a mistake, you played the character. The character did what the character does."
+    },
+    {
+      "start": 1480,
+      "end": 1481,
+      "speaker": "Elysium",
+      "text": "Okay. so?"
+    },
+    {
+      "start": 1481,
+      "end": 1481,
+      "speaker": "Elysium",
+      "text": "So?"
+    },
+    {
+      "start": 1490,
+      "end": 1492,
+      "speaker": "DM",
+      "text": "This. going to be his faiths, Okay?"
+    },
+    {
+      "start": 1490,
+      "end": 1490,
+      "speaker": "DM",
+      "text": "This."
+    },
+    {
+      "start": 1490,
+      "end": 1491,
+      "speaker": "Jimothy",
+      "text": "Yes, I understand."
+    },
+    {
+      "start": 1493,
+      "end": 1497,
+      "speaker": "Elysium",
+      "text": "So? and you can never play a perfect game when its not a solo game."
+    },
+    {
+      "start": 1494,
+      "end": 1495,
+      "speaker": "Jimothy",
+      "text": "No longer, though."
+    },
+    {
+      "start": 1498,
+      "end": 1500,
+      "speaker": "DM",
+      "text": "Right, okay, Sean?"
+    },
+    {
+      "start": 1501,
+      "end": 1509,
+      "speaker": "Elysium",
+      "text": "I said you cannot play a perfect game when its not a solo person game, So theyll try to dont always try to figure out the perfect solution to everything."
+    },
+    {
+      "start": 1504,
+      "end": 1504,
+      "speaker": "DM",
+      "text": "Yeah."
+    },
+    {
+      "start": 1505,
+      "end": 1507,
+      "speaker": "DM",
+      "text": "Yeah. not winning D and D."
+    },
+    {
+      "start": 1510,
+      "end": 1510,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 1511,
+      "end": 1511,
+      "speaker": "DM",
+      "text": "Okay."
+    },
+    {
+      "start": 1511,
+      "end": 1514,
+      "speaker": "Jimothy",
+      "text": "Yeah. i wasnt I wasnt trying to. all right, lets continue."
+    },
+    {
+      "start": 1512,
+      "end": 1512,
+      "speaker": "Elysium",
+      "text": "Now Im just."
+    },
+    {
+      "start": 1513,
+      "end": 1513,
+      "speaker": "Elysium",
+      "text": "Now not going to go."
+    },
+    {
+      "start": 1514,
+      "end": 1516,
+      "speaker": "DM",
+      "text": "Okay. right, so Sean, how are you feeling?"
+    },
+    {
+      "start": 1514,
+      "end": 1514,
+      "speaker": "Elysium",
+      "text": "Fine."
+    },
+    {
+      "start": 1514,
+      "end": 1517,
+      "speaker": "Elysium",
+      "text": "Fine. opinion Im against Im against them all again im present."
+    },
+    {
+      "start": 1518,
+      "end": 1519,
+      "speaker": "Elysium",
+      "text": "Against it, Um?"
+    },
+    {
+      "start": 1520,
+      "end": 1524,
+      "speaker": "Elysium",
+      "text": "Um, if he chose to go with, let it play out. Im cool with that if he."
+    },
+    {
+      "start": 1525,
+      "end": 1536,
+      "speaker": "Elysium",
+      "text": "Chose option two. go get sick. im okay with that under the circumstances that we, it will never be an option again in the future no more, not another Dm and intervention on behalf of Jimothy."
+    },
+    {
+      "start": 1543,
+      "end": 1543,
+      "speaker": "Elysium",
+      "text": "Yes."
+    },
+    {
+      "start": 1543,
+      "end": 1549,
+      "speaker": "Elysium",
+      "text": "Yes. of this point in time that this is now a thing, because i am very much against Dm interventions, my personal opinion."
+    },
+    {
+      "start": 1547,
+      "end": 1551,
+      "speaker": "DM",
+      "text": "So what is that? What does that imply then that every player gets one D, M intervention."
+    },
+    {
+      "start": 1551,
+      "end": 1564,
+      "speaker": "DM",
+      "text": "Same. same. my D. M. we only ever had one D, M intervention, and it was because one player went crazy and nuked an entire city and killed everybody, so we were killed against our wishes because of that one guy, so he said, the game is over."
+    },
+    {
+      "start": 1551,
+      "end": 1552,
+      "speaker": "DM",
+      "text": "Same. same."
+    },
+    {
+      "start": 1552,
+      "end": 1552,
+      "speaker": "DM",
+      "text": "Same."
+    },
+    {
+      "start": 1562,
+      "end": 1563,
+      "speaker": "Elysium",
+      "text": "Thats fair, Yeah."
+    },
+    {
+      "start": 1565,
+      "end": 1565,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1566,
+      "end": 1573,
+      "speaker": "DM",
+      "text": "So? can do Dm intervention and bring you guys back, but the consequences of what happened, are still there, so even with the Dm intervention, we still had consequences from the new going off."
+    },
+    {
+      "start": 1573,
+      "end": 1591,
+      "speaker": "Elysium",
+      "text": "Yeah, in my case, Ive never had it happen personally, but Ive seen it where one person is like tired of playing or like something personal became like super petty and they tried to sabotage the entire game and campaign, And so the D. M's like No, We're backtracking, this person's no longer in the game because they were intentionally trying to sabotage everything due to."
+    },
+    {
+      "start": 1575,
+      "end": 1575,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1586,
+      "end": 1586,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1592,
+      "end": 1595,
+      "speaker": "Elysium",
+      "text": "X y z reasons, and theyre just being a little dick about it."
+    },
+    {
+      "start": 1592,
+      "end": 1592,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1596,
+      "end": 1596,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1598,
+      "end": 1599,
+      "speaker": "DM",
+      "text": "So? what youre saying?"
+    },
+    {
+      "start": 1601,
+      "end": 1605,
+      "speaker": "DM",
+      "text": "I feel pretty good about what you said, I think my mind is similar to yours, Tucker?"
+    },
+    {
+      "start": 1606,
+      "end": 1607,
+      "speaker": "Gordon",
+      "text": "Um."
+    },
+    {
+      "start": 1607,
+      "end": 1610,
+      "speaker": "Gordon",
+      "text": "Um. i personally dont dont care."
+    },
+    {
+      "start": 1612,
+      "end": 1612,
+      "speaker": "Gordon",
+      "text": "Any any?"
+    },
+    {
+      "start": 1612,
+      "end": 1612,
+      "speaker": "Elysium",
+      "text": "Thats."
+    },
+    {
+      "start": 1612,
+      "end": 1612,
+      "speaker": "Elysium",
+      "text": "Thats."
+    },
+    {
+      "start": 1613,
+      "end": 1613,
+      "speaker": "Elysium",
+      "text": "Thats."
+    },
+    {
+      "start": 1613,
+      "end": 1615,
+      "speaker": "Gordon",
+      "text": "Any any of the ways because I mean."
+    },
+    {
+      "start": 1615,
+      "end": 1619,
+      "speaker": "DM",
+      "text": "What game are we even playing right now, Im not entirely sure i thought this was monopoly."
+    },
+    {
+      "start": 1617,
+      "end": 1617,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1617,
+      "end": 1617,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1618,
+      "end": 1619,
+      "speaker": "Gordon",
+      "text": "No, I mean, I, I."
+    },
+    {
+      "start": 1619,
+      "end": 1620,
+      "speaker": "Elysium",
+      "text": "Life, too."
+    },
+    {
+      "start": 1619,
+      "end": 1625,
+      "speaker": "Gordon",
+      "text": "No, I dont want to get into this, because were already at 09:40 but I mean this is already."
+    },
+    {
+      "start": 1624,
+      "end": 1624,
+      "speaker": "DM",
+      "text": "Right, right, right?"
+    },
+    {
+      "start": 1625,
+      "end": 1633,
+      "speaker": "Gordon",
+      "text": "Already a homebrew, and so with homebrew comes a lot of rules that are not in the core D and D books."
+    },
+    {
+      "start": 1635,
+      "end": 1636,
+      "speaker": "Gordon",
+      "text": "And with?"
+    },
+    {
+      "start": 1637,
+      "end": 1637,
+      "speaker": "Gordon",
+      "text": "Make."
+    },
+    {
+      "start": 1637,
+      "end": 1647,
+      "speaker": "Gordon",
+      "text": "Make. easy to be loosey, goosey with the rules to the point where i think when I think of homebrewer, I think of fun for the players and you customize for the players, and so."
+    },
+    {
+      "start": 1646,
+      "end": 1646,
+      "speaker": "DM",
+      "text": "M."
+    },
+    {
+      "start": 1648,
+      "end": 1657,
+      "speaker": "Gordon",
+      "text": "So, in my opinion, its whatever is fun for the players is unless Im involved, which im not actively involved right now. That's kind of what I said earlier, I'm not actively involved in this situation."
+    },
+    {
+      "start": 1655,
+      "end": 1656,
+      "speaker": "Elysium",
+      "text": "Yeah."
+    },
+    {
+      "start": 1658,
+      "end": 1659,
+      "speaker": "Gordon",
+      "text": "You know."
+    },
+    {
+      "start": 1659,
+      "end": 1660,
+      "speaker": "Gordon",
+      "text": "So I."
+    },
+    {
+      "start": 1660,
+      "end": 1663,
+      "speaker": "Elysium",
+      "text": "Yeah. there are consequences that will impact the team."
+    },
+    {
+      "start": 1661,
+      "end": 1663,
+      "speaker": "Gordon",
+      "text": "I just, I just dont sure."
+    },
+    {
+      "start": 1666,
+      "end": 1668,
+      "speaker": "Gordon",
+      "text": "Gordon does not care."
+    },
+    {
+      "start": 1669,
+      "end": 1669,
+      "speaker": "Gordon",
+      "text": "Ah."
+    },
+    {
+      "start": 1669,
+      "end": 1674,
+      "speaker": "Gordon",
+      "text": "Ah. will probably end up drinking himself to death in the next ah."
+    },
+    {
+      "start": 1674,
+      "end": 1678,
+      "speaker": "Gordon",
+      "text": "You know couple of months, which will be ten years our time, so um?"
+    },
+    {
+      "start": 1681,
+      "end": 1681,
+      "speaker": "DM",
+      "text": "M."
+    },
+    {
+      "start": 1682,
+      "end": 1683,
+      "speaker": "Elysium",
+      "text": "All because of Volusia."
+    },
+    {
+      "start": 1683,
+      "end": 1683,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1684,
+      "end": 1684,
+      "speaker": "Gordon",
+      "text": "So?"
+    },
+    {
+      "start": 1685,
+      "end": 1688,
+      "speaker": "Gordon",
+      "text": "So? my opinion is I, I do not."
+    },
+    {
+      "start": 1689,
+      "end": 1689,
+      "speaker": "Gordon",
+      "text": "We are."
+    },
+    {
+      "start": 1689,
+      "end": 1691,
+      "speaker": "Gordon",
+      "text": "We in homebrew and?"
+    },
+    {
+      "start": 1691,
+      "end": 1702,
+      "speaker": "Gordon",
+      "text": "If it was a group decision, i would say stick to core, d and D rules of no dm intervention at all, but we are not in a group and I would hold fund."
+    },
+    {
+      "start": 1702,
+      "end": 1705,
+      "speaker": "Gordon",
+      "text": "For the people currently involved over."
+    },
+    {
+      "start": 1707,
+      "end": 1715,
+      "speaker": "Gordon",
+      "text": "The integrity of the game as long as it doesn't involve me or the people that care if that makes sense. Hopefully I'm making some sort of sense in that."
+    },
+    {
+      "start": 1714,
+      "end": 1714,
+      "speaker": "DM",
+      "text": "M."
+    },
+    {
+      "start": 1717,
+      "end": 1718,
+      "speaker": "DM",
+      "text": "M. i gotta."
+    },
+    {
+      "start": 1717,
+      "end": 1720,
+      "speaker": "Gordon",
+      "text": "I care about the integrity for people who care about the integrity, but."
+    },
+    {
+      "start": 1721,
+      "end": 1721,
+      "speaker": "DM",
+      "text": "So?"
+    },
+    {
+      "start": 1722,
+      "end": 1722,
+      "speaker": "DM",
+      "text": "So? that."
+    },
+    {
+      "start": 1722,
+      "end": 1723,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1722,
+      "end": 1722,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1723,
+      "end": 1726,
+      "speaker": "DM",
+      "text": "So? that. like were good with option two then."
+    },
+    {
+      "start": 1727,
+      "end": 1727,
+      "speaker": "DM",
+      "text": "All."
+    },
+    {
+      "start": 1729,
+      "end": 1734,
+      "speaker": "DM",
+      "text": "All. seems like the best option to address the situation with that. we now switch to Elysium."
+    },
+    {
+      "start": 1735,
+      "end": 1739,
+      "speaker": "DM",
+      "text": "Turn ends with him staring down dr. Uter von Schmek, All right."
+    },
+    {
+      "start": 1741,
+      "end": 1742,
+      "speaker": "DM",
+      "text": "Alici."
+    },
+    {
+      "start": 1742,
+      "end": 1744,
+      "speaker": "DM",
+      "text": "Alici. so now we can finally get off"
+    },
+    {
+      "start": 1747,
+      "end": 1748,
+      "speaker": "Elysium",
+      "text": "Remember what I was doing."
+    },
+    {
+      "start": 1758,
+      "end": 1759,
+      "speaker": "Elysium",
+      "text": "Thats right."
+    },
+    {
+      "start": 1768,
+      "end": 1768,
+      "speaker": "Elysium",
+      "text": "Yeah."
+    },
+    {
+      "start": 1769,
+      "end": 1770,
+      "speaker": "Elysium",
+      "text": "Yeah. either babsey or sardine."
+    },
+    {
+      "start": 1775,
+      "end": 1775,
+      "speaker": "Elysium",
+      "text": "They kind of."
+    },
+    {
+      "start": 1776,
+      "end": 1777,
+      "speaker": "Elysium",
+      "text": "They a babsey voice. thats why."
+    },
+    {
+      "start": 1780,
+      "end": 1780,
+      "speaker": "Gordon",
+      "text": "Mm."
+    },
+    {
+      "start": 1786,
+      "end": 1786,
+      "speaker": "Elysium",
+      "text": "Yeah."
+    },
+    {
+      "start": 1786,
+      "end": 1786,
+      "speaker": "Elysium",
+      "text": "Yeah."
+    },
+    {
+      "start": 1798,
+      "end": 1798,
+      "speaker": "Gordon",
+      "text": "Mm."
+    },
+    {
+      "start": 1799,
+      "end": 1799,
+      "speaker": "Elysium",
+      "text": "Yeah. boy."
+    },
+    {
+      "start": 1809,
+      "end": 1810,
+      "speaker": "Elysium",
+      "text": "And?"
+    },
+    {
+      "start": 1817,
+      "end": 1817,
+      "speaker": "Elysium",
+      "text": "And? adopted."
+    },
+    {
+      "start": 1856,
+      "end": 1856,
+      "speaker": "Elysium",
+      "text": "And? adopted."
+    },
+    {
+      "start": 1862,
+      "end": 1862,
+      "speaker": "Elysium",
+      "text": "Ah."
+    },
+    {
+      "start": 1862,
+      "end": 1862,
+      "speaker": "Elysium",
+      "text": "Ah."
+    },
+    {
+      "start": 1872,
+      "end": 1872,
+      "speaker": "Elysium",
+      "text": "Ah. want to?"
+    },
+    {
+      "start": 1874,
+      "end": 1875,
+      "speaker": "Elysium",
+      "text": "Use going to use my stratagem."
+    },
+    {
+      "start": 1881,
+      "end": 1882,
+      "speaker": "Elysium",
+      "text": "There you go."
+    },
+    {
+      "start": 1886,
+      "end": 1886,
+      "speaker": "Elysium",
+      "text": "Bullshit."
+    },
+    {
+      "start": 1891,
+      "end": 1891,
+      "speaker": "Elysium",
+      "text": "Bullshit."
+    },
+    {
+      "start": 1916,
+      "end": 1920,
+      "speaker": "Elysium",
+      "text": "Bullshit. vaguely recall that, but dont recall who hes talking? who did that to him?"
+    },
+    {
+      "start": 1926,
+      "end": 1926,
+      "speaker": "Elysium",
+      "text": "Who did that?"
+    },
+    {
+      "start": 1933,
+      "end": 1933,
+      "speaker": "Elysium",
+      "text": "Thats."
+    },
+    {
+      "start": 1937,
+      "end": 1937,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1937,
+      "end": 1938,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1940,
+      "end": 1940,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 1940,
+      "end": 1941,
+      "speaker": "Jimothy",
+      "text": "M. no, what?"
+    },
+    {
+      "start": 1942,
+      "end": 1943,
+      "speaker": "Jimothy",
+      "text": "M. no, i, what did I do?"
+    },
+    {
+      "start": 1944,
+      "end": 1944,
+      "speaker": "Elysium",
+      "text": "Thats."
+    },
+    {
+      "start": 1945,
+      "end": 1945,
+      "speaker": "Elysium",
+      "text": "Thats."
+    },
+    {
+      "start": 1946,
+      "end": 1946,
+      "speaker": "Elysium",
+      "text": "Thats. mm."
+    },
+    {
+      "start": 1947,
+      "end": 1947,
+      "speaker": "Elysium",
+      "text": "Ya."
+    },
+    {
+      "start": 1948,
+      "end": 1948,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 1949,
+      "end": 1949,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 1949,
+      "end": 1951,
+      "speaker": "Jimothy",
+      "text": "Um. remind me."
+    },
+    {
+      "start": 1956,
+      "end": 1957,
+      "speaker": "Elysium",
+      "text": "Ya. mean."
+    },
+    {
+      "start": 1957,
+      "end": 1958,
+      "speaker": "Elysium",
+      "text": "Ya. mean. even see them, Youre not there."
+    },
+    {
+      "start": 1958,
+      "end": 1958,
+      "speaker": "Jimothy",
+      "text": "I."
+    },
+    {
+      "start": 1959,
+      "end": 1959,
+      "speaker": "Jimothy",
+      "text": "I. not even there."
+    },
+    {
+      "start": 1960,
+      "end": 1960,
+      "speaker": "Elysium",
+      "text": "Yeah."
+    },
+    {
+      "start": 1962,
+      "end": 1963,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 1965,
+      "end": 1968,
+      "speaker": "Elysium",
+      "text": "Yeah. do recall you had an unfortunate run in with the."
+    },
+    {
+      "start": 1969,
+      "end": 1970,
+      "speaker": "Elysium",
+      "text": "Security that night."
+    },
+    {
+      "start": 1973,
+      "end": 1973,
+      "speaker": "Elysium",
+      "text": "Its unfortunate."
+    },
+    {
+      "start": 1975,
+      "end": 1976,
+      "speaker": "Elysium",
+      "text": "No, but unfortunately."
+    },
+    {
+      "start": 1995,
+      "end": 1996,
+      "speaker": "Elysium",
+      "text": "No, you find him."
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "speaker": "Elysium",
+      "text": "No, he could have left them at home, I dont know what cavendish lied to us about."
+    },
+    {
+      "start": 2014,
+      "end": 2014,
+      "speaker": "Elysium",
+      "text": "Anywa."
+    },
+    {
+      "start": 2016,
+      "end": 2016,
+      "speaker": "Elysium",
+      "text": "Anywa."
+    },
+    {
+      "start": 2016,
+      "end": 2016,
+      "speaker": "Elysium",
+      "text": "Anywa."
+    },
+    {
+      "start": 2020,
+      "end": 2020,
+      "speaker": "Elysium",
+      "text": "Anywa."
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "speaker": "Elysium",
+      "text": "Anywa. be."
+    },
+    {
+      "start": 2025,
+      "end": 2029,
+      "speaker": "Elysium",
+      "text": "Anywa. be. that youre lucky, your son is still alive after what he did today, he he alm."
+    },
+    {
+      "start": 2030,
+      "end": 2030,
+      "speaker": "Elysium",
+      "text": "Got himself killed."
+    },
+    {
+      "start": 2032,
+      "end": 2041,
+      "speaker": "Elysium",
+      "text": "Yeah, ask him who healed him and tried to actually replenish his teeth after he decided to go sexually harass mercenaries who almost killed him if it wasn't for us."
+    },
+    {
+      "start": 2053,
+      "end": 2053,
+      "speaker": "Elysium",
+      "text": "Yeah."
+    },
+    {
+      "start": 2054,
+      "end": 2057,
+      "speaker": "Elysium",
+      "text": "250 gold trast sandwich that you just threw on the ground."
+    },
+    {
+      "start": 2076,
+      "end": 2081,
+      "speaker": "Elysium",
+      "text": "A lot talk ill of the boss this way, but I think there has been a miscommunication on that front."
+    },
+    {
+      "start": 2083,
+      "end": 2083,
+      "speaker": "Elysium",
+      "text": "However."
+    },
+    {
+      "start": 2118,
+      "end": 2124,
+      "speaker": "Elysium",
+      "text": "However. i said there might have been some miscommunication on that front, however, i wont hold that against you, obviously, but."
+    },
+    {
+      "start": 2125,
+      "end": 2126,
+      "speaker": "Elysium",
+      "text": "Like I said."
+    },
+    {
+      "start": 2126,
+      "end": 2128,
+      "speaker": "Elysium",
+      "text": "Your son here would."
+    },
+    {
+      "start": 2130,
+      "end": 2135,
+      "speaker": "Elysium",
+      "text": "Probably killed today if it wasnt for lesser babysitters, if you will, i would recommend you."
+    },
+    {
+      "start": 2136,
+      "end": 2136,
+      "speaker": "Elysium",
+      "text": "Teach."
+    },
+    {
+      "start": 2137,
+      "end": 2139,
+      "speaker": "Elysium",
+      "text": "Teach. to sexually harass mercenaries in the future."
+    },
+    {
+      "start": 2151,
+      "end": 2151,
+      "speaker": "Elysium",
+      "text": "Dulce."
+    },
+    {
+      "start": 2170,
+      "end": 2170,
+      "speaker": "Gordon",
+      "text": "Mm."
+    },
+    {
+      "start": 2175,
+      "end": 2176,
+      "speaker": "Elysium",
+      "text": "Dulce. threate."
+    },
+    {
+      "start": 2177,
+      "end": 2182,
+      "speaker": "Elysium",
+      "text": "Dulce. threate. as well, because hes the one that set this all up I should make."
+    },
+    {
+      "start": 2183,
+      "end": 2192,
+      "speaker": "Elysium",
+      "text": "Ill make him aware that youre threatening me and all those I accompany me and that I associate with, as you said, which would include include the boss, ill make sure that hes well aware."
+    },
+    {
+      "start": 2194,
+      "end": 2195,
+      "speaker": "Elysium",
+      "text": "Go ahead, Ill see him today."
+    },
+    {
+      "start": 2225,
+      "end": 2226,
+      "speaker": "Gordon",
+      "text": "Mm."
+    },
+    {
+      "start": 2228,
+      "end": 2233,
+      "speaker": "Gordon",
+      "text": "Mm. didnt get enough time, so that means I get like that, means i get like five extra rolls."
+    },
+    {
+      "start": 2230,
+      "end": 2230,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 2237,
+      "end": 2238,
+      "speaker": "Jimothy",
+      "text": "Yeah. um."
+    },
+    {
+      "start": 2240,
+      "end": 2241,
+      "speaker": "Jimothy",
+      "text": "When?"
+    },
+    {
+      "start": 2243,
+      "end": 2245,
+      "speaker": "Jimothy",
+      "text": "When? weve encountered death."
+    },
+    {
+      "start": 2245,
+      "end": 2248,
+      "speaker": "Jimothy",
+      "text": "Sort of situations in the past, the?"
+    },
+    {
+      "start": 2248,
+      "end": 2251,
+      "speaker": "Jimothy",
+      "text": "The D M has kindly said, Are you sure? Um?"
+    },
+    {
+      "start": 2251,
+      "end": 2255,
+      "speaker": "Jimothy",
+      "text": "Prior to us making actions, Um, where?"
+    },
+    {
+      "start": 2256,
+      "end": 2257,
+      "speaker": "Jimothy",
+      "text": "Was the Are you sure in this one?"
+    },
+    {
+      "start": 2260,
+      "end": 2260,
+      "speaker": "Elysium",
+      "text": "And?"
+    },
+    {
+      "start": 2261,
+      "end": 2263,
+      "speaker": "Elysium",
+      "text": "And? sniper rifles, the three guys following."
+    },
+    {
+      "start": 2266,
+      "end": 2266,
+      "speaker": "Jimothy",
+      "text": "No, no."
+    },
+    {
+      "start": 2267,
+      "end": 2267,
+      "speaker": "Jimothy",
+      "text": "No, no, no."
+    },
+    {
+      "start": 2268,
+      "end": 2271,
+      "speaker": "Jimothy",
+      "text": "Like, obviously, I didnt pick up on those, but like ah."
+    },
+    {
+      "start": 2272,
+      "end": 2278,
+      "speaker": "Jimothy",
+      "text": "When, when theres like a deaf, sort of imminent situation coming on, I."
+    },
+    {
+      "start": 2280,
+      "end": 2281,
+      "speaker": "Jimothy",
+      "text": "I ne."
+    },
+    {
+      "start": 2281,
+      "end": 2289,
+      "speaker": "Jimothy",
+      "text": "I want to enter those situations and so in the past, its been like that, Are you sure and im like Oh, And so then I change course, But."
+    },
+    {
+      "start": 2290,
+      "end": 2290,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 2314,
+      "end": 2314,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 2315,
+      "end": 2315,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 2340,
+      "end": 2340,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 2342,
+      "end": 2343,
+      "speaker": "Jimothy",
+      "text": "Um. good to know."
+    },
+    {
+      "start": 2389,
+      "end": 2390,
+      "speaker": "Gordon",
+      "text": "Ah, my."
+    },
+    {
+      "start": 2395,
+      "end": 2395,
+      "speaker": "Jimothy",
+      "text": "Man."
+    },
+    {
+      "start": 2426,
+      "end": 2427,
+      "speaker": "Jimothy",
+      "text": "Man. a 19 isnt isnt good enough."
+    },
+    {
+      "start": 2497,
+      "end": 2497,
+      "speaker": "Jimothy",
+      "text": "Mm."
+    },
+    {
+      "start": 2504,
+      "end": 2507,
+      "speaker": "Jimothy",
+      "text": "Mm. even though he didnt he didnt see me, I mean."
+    },
+    {
+      "start": 2504,
+      "end": 2504,
+      "speaker": "Jimothy",
+      "text": "Mm."
+    },
+    {
+      "start": 2507,
+      "end": 2511,
+      "speaker": "Jimothy",
+      "text": "Cast any magic that that was his cue to."
+    },
+    {
+      "start": 2512,
+      "end": 2512,
+      "speaker": "Jimothy",
+      "text": "Get me."
+    },
+    {
+      "start": 2530,
+      "end": 2533,
+      "speaker": "Jimothy",
+      "text": "So why didnt they capture me before? Im curious."
+    },
+    {
+      "start": 2574,
+      "end": 2574,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 2574,
+      "end": 2574,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 2583,
+      "end": 2584,
+      "speaker": "Jimothy",
+      "text": "M."
+    },
+    {
+      "start": 2585,
+      "end": 2586,
+      "speaker": "Jimothy",
+      "text": "M. right?"
+    },
+    {
+      "start": 2589,
+      "end": 2590,
+      "speaker": "Jimothy",
+      "text": "Well."
+    },
+    {
+      "start": 2590,
+      "end": 2593,
+      "speaker": "Jimothy",
+      "text": "Well. i mean you know Ive said this before and I say it again, hes."
+    },
+    {
+      "start": 2594,
+      "end": 2594,
+      "speaker": "Jimothy",
+      "text": "Um."
+    },
+    {
+      "start": 2595,
+      "end": 2599,
+      "speaker": "Jimothy",
+      "text": "Um. character that I love the most that I also want to kill the most so."
+    },
+    {
+      "start": 2601,
+      "end": 2601,
+      "speaker": "Jimothy",
+      "text": "Yeah, he's"
+    },
+    {
+      "start": 2605,
+      "end": 2606,
+      "speaker": "Jimothy",
+      "text": "Definitely on the top of my hit list."
+    },
+    {
+      "start": 2625,
+      "end": 2626,
+      "speaker": "Jimothy",
+      "text": "Well. if he kne."
+    },
+    {
+      "start": 2625,
+      "end": 2625,
+      "speaker": "Jimothy",
+      "text": "Well."
+    },
+    {
+      "start": 2627,
+      "end": 2630,
+      "speaker": "Jimothy",
+      "text": "It was me. I mean, he probably would have like played coy, but."
+    },
+    {
+      "start": 2632,
+      "end": 2636,
+      "speaker": "Jimothy",
+      "text": "Like, why wouldnt he have arrested me, if if he knew, it was me in that moment?"
+    },
+    {
+      "start": 2637,
+      "end": 2645,
+      "speaker": "Elysium",
+      "text": "Probably like he said, he said he would have go to you, so he probably would have tried to make you expose yourself or do something that would justify it because you are in public."
+    },
+    {
+      "start": 2644,
+      "end": 2644,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 2659,
+      "end": 2659,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 2675,
+      "end": 2676,
+      "speaker": "Elysium",
+      "text": "Next Tuesday."
+    },
+    {
+      "start": 2678,
+      "end": 2678,
+      "speaker": "Gordon",
+      "text": "Okay."
+    },
+    {
+      "start": 2679,
+      "end": 2681,
+      "speaker": "Gordon",
+      "text": "Okay. was about to say not tomorrow, right?"
+    },
+    {
+      "start": 2679,
+      "end": 2679,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 2679,
+      "end": 2679,
+      "speaker": "Jimothy",
+      "text": "Yeah."
+    },
+    {
+      "start": 2683,
+      "end": 2684,
+      "speaker": "Jimothy",
+      "text": "Yeah. days."
+    },
+    {
+      "start": 2685,
+      "end": 2686,
+      "speaker": "Jimothy",
+      "text": "In a row, man."
+    },
+    {
+      "start": 2689,
+      "end": 2689,
+      "speaker": "Elysium",
+      "text": "Cabin."
+    },
+    {
+      "start": 2693,
+      "end": 2694,
+      "speaker": "Gordon",
+      "text": "Whens the?"
+    },
+    {
+      "start": 2695,
+      "end": 2697,
+      "speaker": "Gordon",
+      "text": "Whens the next cabin trip?"
+    },
+    {
+      "start": 2701,
+      "end": 2703,
+      "speaker": "Jimothy",
+      "text": "Yeah, I mean, Yeah, it."
+    },
+    {
+      "start": 2704,
+      "end": 2708,
+      "speaker": "Gordon",
+      "text": "I shouldnt have brought that up. im sorry, especially whenever theres a hard cutoff."
+    },
+    {
+      "start": 2710,
+      "end": 2712,
+      "speaker": "Jimothy",
+      "text": "Oh yeah, look at the time 3 min, right?"
+    },
+    {
+      "start": 2712,
+      "end": 2713,
+      "speaker": "Gordon",
+      "text": "No, actually, no."
+    },
+    {
+      "start": 2714,
+      "end": 2714,
+      "speaker": "Gordon",
+      "text": "Oh."
+    },
+    {
+      "start": 2716,
+      "end": 2716,
+      "speaker": "Gordon",
+      "text": "Oh."
+    },
+    {
+      "start": 2717,
+      "end": 2718,
+      "speaker": "Gordon",
+      "text": "Oh. now, bye bye."
+    }
+  ],
+  "meta": {
+    "engine": "seavoice",
+    "language": "en",
+    "original_file": "transcript.txt"
+  }
+}

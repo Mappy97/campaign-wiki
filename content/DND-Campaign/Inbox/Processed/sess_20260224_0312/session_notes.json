@@ -1,0 +1,84 @@
+{
+  "session_id": "sess_20240123_2100",
+  "summary": "During this session, Jimothy attempted a risky solo mission near a prison, trying to help someone escape using magic. Despite attempting to be stealthy, he was caught in a trap set by Uter von Schmeck, who had been tracking him with snipers and whistlebrush brigands. This led to a significant DM intervention discussion about how to handle the situation. Meanwhile, Elysium had an encounter involving discussions about someone's son and mercenaries.",
+  "key_events": [
+    {
+      "type": "SOCIAL",
+      "description": "Jimothy attempts covert operation near prison entrance",
+      "timestamp": "00:25",
+      "participants": [
+        "Jimothy"
+      ],
+      "outcome": "Discovered by Uter von Schmeck"
+    },
+    {
+      "type": "MAGIC",
+      "description": "Attempted teleportation spell with disadvantage",
+      "timestamp": "01:35",
+      "participants": [
+        "Jimothy"
+      ],
+      "outcome": "Successful but led to detection"
+    },
+    {
+      "type": "META",
+      "description": "DM intervention discussion regarding Jimothy's fate",
+      "timestamp": "09:40",
+      "participants": [
+        "DM",
+        "Players"
+      ],
+      "outcome": "Agreed on Option 2 - preservation with consequences"
+    }
+  ],
+  "npc_interactions": [
+    {
+      "npc_name": "Uter von Schmeck",
+      "disposition": "HOSTILE",
+      "key_moments": [
+        "Revealed trap to capture Jimothy",
+        "Places blades at Jimothy's neck",
+        "Recognizes Jimothy as member of banana boys"
+      ],
+      "information_gained": [
+        "Had been tracking party with snipers",
+        "Set elaborate trap",
+        "May know about Banana Boys involvement"
+      ]
+    }
+  ],
+  "treasure_items": [],
+  "location_discoveries": [
+    "Prison entrance area",
+    "Surrounding vantage points for snipers"
+  ],
+  "quest_updates": [],
+  "player_moments": [
+    {
+      "player": "Jimothy",
+      "moment": "Attempts risky teleportation spell to help someone escape"
+    },
+    {
+      "player": "Elysium",
+      "moment": "Discussion about someone's son and mercenaries"
+    }
+  ],
+  "open_threads": [
+    {
+      "priority": "HIGH",
+      "thread": "Consequences of Jimothy's capture/escape",
+      "mentioned_at": "24:15"
+    },
+    {
+      "priority": "MED",
+      "thread": "Uter von Schmeck's knowledge of Banana Boys",
+      "mentioned_at": "25:30"
+    }
+  ],
+  "mood_tone": "Tense and consequential, with significant meta-discussion about game mechanics and player agency",
+  "next_session_hints": [
+    "Dealing with aftermath of Jimothy's situation",
+    "Potential increased scrutiny from Uter von Schmeck",
+    "Implications for larger mission involving Grudgebreaker"
+  ]
+}

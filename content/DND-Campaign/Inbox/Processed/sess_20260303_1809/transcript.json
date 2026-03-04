@@ -1,0 +1,15 @@
+{
+  "segments": [
+    {
+      "start": 0,
+      "end": 0,
+      "speaker": "UNKNOWN",
+      "text": "[Audio file present - transcription not available without ffmpeg]"
+    }
+  ],
+  "meta": {
+    "engine": "fallback",
+    "language": "en",
+    "error": "no_ffmpeg"
+  }
+}

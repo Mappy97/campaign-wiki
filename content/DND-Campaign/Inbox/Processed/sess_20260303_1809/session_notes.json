@@ -1,0 +1,15 @@
+{
+  "session_id": "sess_ERROR_NODATA",
+  "summary": "Unable to generate summary - no transcript data available",
+  "key_events": [],
+  "npc_interactions": [],
+  "treasure_items": [],
+  "location_discoveries": [],
+  "quest_updates": [],
+  "player_moments": [],
+  "open_threads": [],
+  "mood_tone": "Unknown - insufficient data",
+  "next_session_hints": [
+    "N/A - No data to analyze"
+  ]
+}

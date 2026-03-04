@@ -1,0 +1,37 @@
+{
+  "session_id": "sess_20260303_1809",
+  "operations": [],
+  "needs_review": [
+    {
+      "entity_id": "system_error_001",
+      "reason": "Unable to process session - no valid transcript or session notes data provided",
+      "options": [
+        "Verify session transcript exists",
+        "Check session notes generator"
+      ]
+    }
+  ],
+  "wiki_pages": [],
+  "session_page": {
+    "filename": "Sessions/ERROR_NODATA.md",
+    "frontmatter": {
+      "id": "sess_ERROR_NODATA",
+      "date": "ERROR",
+      "type": "session",
+      "entities": [],
+      "threads": []
+    },
+    "content": "# Session Error\n\nNo valid session data was available to process. This may indicate an issue with:\n\n- Missing session transcript\n- Failed session notes generation\n- Data corruption\n\nPlease verify the source data and try again."
+  },
+  "indexes": {
+    "entity_index": {
+      "additions": [],
+      "updates": [],
+      "deletions": []
+    },
+    "open_threads": {
+      "add": [],
+      "resolve": []
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "session_id": "sess_20260224_0312",
+  "operations": [
+    {
+      "op": "CREATE",
+      "entity_type": "PC",
+      "entity_id": "pc_jimothy",
+      "canonical_name": "Jimothy",
+      "aliases": [],
+      "changes": {
+        "summary": "Member of the Banana Boys, attempted prison break operation",
+        "detail": "A spellcaster capable of teleportation magic. Known member of the Banana Boys faction. Attempted a risky solo mission at a prison which resulted in capture by Uter von Schmeck.",
+        "evidence": [
+          "00:25",
+          "01:35"
+        ]
+      },
+      "dedupe": {
+        "match_candidates": [],
+        "confidence": 0.0,
+        "action_recommended": "KEEP_SEPARATE"
+      }
+    },
+    {
+      "op": "CREATE",
+      "entity_type": "PC",
+      "entity_id": "pc_elysium",
+      "canonical_name": "Elysium",
+      "aliases": [],
+      "changes": {
+        "summary": "Party member involved in discussions about someone's son and mercenaries",
+        "detail": "Had involvement in a separate situation concerning someone's son and mercenaries.",
+        "evidence": [
+          "player_moments"
+        ]
+      },
+      "dedupe": {
+        "match_candidates": [],
+        "confidence": 0.0,
+        "action_recommended": "KEEP_SEPARATE"
+      }
+    },
+    {
+      "op": "CREATE",
+      "entity_type": "NPC",
+      "entity_id": "npc_uter_von_schmeck",
+      "canonical_name": "Uter von Schmeck",
+      "aliases": [],
+      "changes": {
+        "summary": "Hostile figure who captured Jimothy",
+        "detail": "A cunning adversary who set up an elaborate trap to capture Jimothy. Commands snipers and whistlebrush brigands. Aware of the Banana Boys' activities. Successfully ambushed Jimothy during a prison break attempt.",
+        "evidence": [
+          "00:25",
+          "npc_interactions"
+        ]
+      },
+      "dedupe": {
+        "match_candidates": [],
+        "confidence": 0.0,
+        "action_recommended": "KEEP_SEPARATE"
+      }
+    },
+    {
+      "op": "CREATE",
+      "entity_type": "FACTION",
+      "entity_id": "faction_banana_boys",
+      "canonical_name": "Banana Boys",
+      "aliases": [],
+      "changes": {
+        "summary": "Organization that Jimothy belongs to",
+        "detail": "A group known to Uter von Schmeck, with Jimothy as a confirmed member. Currently under scrutiny from hostile forces.",
+        "evidence": [
+          "npc_interactions"
+        ]
+      },
+      "dedupe": {
+        "match_candidates": [],
+        "confidence": 0.0,
+        "action_recommended": "KEEP_SEPARATE"
+      }
+    },
+    {
+      "op": "CREATE",
+      "entity_type": "LOCATION",
+      "entity_id": "loc_prison",
+      "canonical_name": "Prison",
+      "aliases": [
+        "Prison entrance area"
+      ],
+      "changes": {
+        "summary": "Location of attempted break-in",
+        "detail": "A prison facility where Jimothy attempted a rescue operation. Has surrounding vantage points used by snipers. Security appears to be well-organized with multiple layers of protection.",
+        "evidence": [
+          "00:25",
+          "location_discoveries"
+        ]
+      },
+      "dedupe": {
+        "match_candidates": [],
+        "confidence": 0.0,
+        "action_recommended": "KEEP_SEPARATE"
+      }
+    }
+  ],
+  "needs_review": [],
+  "wiki_pages": [
+    {
+      "entity_id": "pc_jimothy",
+      "filename": "Entities/PC/Jimothy.md",
+      "frontmatter": {
+        "id": "pc_jimothy",
+        "type": "PC",
+        "aliases": [],
+        "tags": [
+          "banana_boys",
+          "spellcaster"
+        ],
+        "status": "active",
+        "first_appearance": "sess_20240123",
+        "last_updated": "sess_20240123"
+      },
+      "content": "# Jimothy\n\nA spellcaster and member of the Banana Boys faction. Known for their ability to use teleportation magic.\n\n## Notable Events\n\n- **Session 2024-01-23**: Attempted a solo prison break operation that resulted in capture by Uter von Schmeck. Demonstrated capability with teleportation magic despite being at a disadvantage."
+    },
+    {
+      "entity_id": "npc_uter_von_schmeck",
+      "filename": "Entities/NPC/Uter_von_Schmeck.md",
+      "frontmatter": {
+        "id": "npc_uter_von_schmeck",
+        "type": "NPC",
+        "aliases": [],
+        "tags": [
+          "antagonist",
+          "commander"
+        ],
+        "status": "active",
+        "first_appearance": "sess_20240123",
+        "last_updated": "sess_20240123"
+      },
+      "content": "# Uter von Schmeck\n\nA cunning and dangerous adversary who commands snipers and whistlebrush brigands.\n\n## Known Information\n\n- Commands a force including snipers and whistlebrush brigands\n- Aware of the Banana Boys' activities\n- Successfully captured Jimothy during a prison break attempt\n- Demonstrates tactical acumen through elaborate trap-setting"
+    }
+  ],
+  "session_page": {
+    "filename": "Sessions/sess_20240123.md",
+    "frontmatter": {
+      "id": "sess_20240123_2100",
+      "date": "2024-01-23",
+      "type": "session",
+      "entities": [
+        "pc_jimothy",
+        "pc_elysium",
+        "npc_uter_von_schmeck",
+        "faction_banana_boys",
+        "loc_prison"
+      ],
+      "threads": [
+        "thread_jimothy_capture",
+        "thread_banana_boys_exposure"
+      ]
+    },
+    "content": "# Session 2024-01-23\n\n## Summary\n\nA tense session centered around Jimothy's attempted solo prison break operation, which resulted in their capture by Uter von Schmeck. The situation led to significant meta-discussion about handling the consequences of this turn of events.\n\n## Key Events\n\n- Jimothy attempted a covert operation near a prison entrance\n- Despite attempting stealth and teleportation magic, Jimothy was caught in an elaborate trap\n- Uter von Schmeck revealed he had been tracking the party with snipers\n- Major discussion about how to handle the situation's consequences\n\n## Open Threads\n\n- HIGH: Consequences of Jimothy's capture/escape\n- MEDIUM: Extent of Uter von Schmeck's knowledge about the Banana Boys\n\n## Notable Quotes\n\n- None recorded\n\n## Next Steps\n\n- Deal with the immediate aftermath of Jimothy's situation\n- Address potential increased scrutiny from Uter von Schmeck\n- Consider implications for the broader mission involving Grudgebreaker"
+  },
+  "indexes": {
+    "entity_index": {
+      "additions": [
+        {
+          "id": "pc_jimothy",
+          "type": "PC",
+          "name": "Jimothy",
+          "status": "active"
+        },
+        {
+          "id": "pc_elysium",
+          "type": "PC",
+          "name": "Elysium",
+          "status": "active"
+        },
+        {
+          "id": "npc_uter_von_schmeck",
+          "type": "NPC",
+          "name": "Uter von Schmeck",
+          "status": "active"
+        },
+        {
+          "id": "faction_banana_boys",
+          "type": "FACTION",
+          "name": "Banana Boys",
+          "status": "active"
+        },
+        {
+          "id": "loc_prison",
+          "type": "LOCATION",
+          "name": "Prison",
+          "status": "active"
+        }
+      ],
+      "updates": [],
+      "deletions": []
+    },
+    "open_threads": {
+      "add": [
+        {
+          "id": "thread_jimothy_capture",
+          "title": "Consequences of Jimothy's capture/escape",
+          "priority": "HIGH",
+          "created": "sess_20240123"
+        },
+        {
+          "id": "thread_banana_boys_exposure",
+          "title": "Uter von Schmeck's knowledge of Banana Boys",
+          "priority": "MED",
+          "created": "sess_20240123"
+        }
+      ],
+      "resolve": []
+    }
+  }
+}

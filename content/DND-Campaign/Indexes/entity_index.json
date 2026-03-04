@@ -1,0 +1,48 @@
+{
+  "campaign_id": "camp_campaign",
+  "campaign_name": "Campaign",
+  "entities": [
+    {
+      "entity_id": "pc_jimothy",
+      "type": "PC",
+      "canonical_name": "Jimothy",
+      "aliases": [],
+      "last_known_state": "Member of the Banana Boys, attempted prison break operation",
+      "history": []
+    },
+    {
+      "entity_id": "pc_elysium",
+      "type": "PC",
+      "canonical_name": "Elysium",
+      "aliases": [],
+      "last_known_state": "Party member involved in discussions about someone's son and mercenaries",
+      "history": []
+    },
+    {
+      "entity_id": "npc_uter_von_schmeck",
+      "type": "NPC",
+      "canonical_name": "Uter von Schmeck",
+      "aliases": [],
+      "last_known_state": "Hostile figure who captured Jimothy",
+      "history": []
+    },
+    {
+      "entity_id": "faction_banana_boys",
+      "type": "FACTION",
+      "canonical_name": "Banana Boys",
+      "aliases": [],
+      "last_known_state": "Organization that Jimothy belongs to",
+      "history": []
+    },
+    {
+      "entity_id": "loc_prison",
+      "type": "LOCATION",
+      "canonical_name": "Prison",
+      "aliases": [
+        "Prison entrance area"
+      ],
+      "last_known_state": "Location of attempted break-in",
+      "history": []
+    }
+  ]
+}

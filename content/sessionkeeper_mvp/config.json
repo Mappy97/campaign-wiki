@@ -1,0 +1,14 @@
+{
+  "campaign_name": "Campaign",
+  "vault_path": "/Users/matt/Documents/Obsidian/DND-Campaign",
+  "inbox_audio": "Inbox/Audio",
+  "inbox_processed": "Inbox/Processed",
+  "transcription_mode": "LOCAL",
+  "language": "en",
+  "publish_default": true,
+  "dm_folder": "DM",
+  "dedupe": {
+    "auto_merge_threshold": 0.8,
+    "review_threshold": 0.5
+  }
+}
