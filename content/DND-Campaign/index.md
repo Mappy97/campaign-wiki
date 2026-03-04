@@ -10,46 +10,51 @@ Welcome to the official wiki for our D&D campaign! This wiki contains session no
 
 | Section | Description |
 |---------|-------------|
-| [[Sessions/]] | Session notes and transcripts |
-| [[Entities/PCs/]] | Player Characters |
-| [[Entities/NPCs/]] | Non-Player Characters |
-| [[Entities/Locations/]] | Locations we've visited |
-| [[Entities/Factions/]] | Factions and organizations |
-| [[Entities/Quests/]] | Active and completed quests |
+| [Sessions](./Sessions/) | Session notes and transcripts |
+| [Player Characters](./Entities/PCs/) | Our heroes |
+| [NPCs](./Entities/NPCs/) | Non-Player Characters |
+| [Locations](./Entities/Locations/) | Places we've visited |
+| [Factions](./Entities/Factions/) | Organizations & groups |
+| [Items](./Entities/Items/) | Magic items & artifacts |
 
 ## 👥 Player Characters
 
-- **[[Jimothy]]** - Party member
-- **[[Elysium]]** - Party member  
-- **[[Gordon]]** - Party member (controls Gary)
-- **[[Gary]]** - Brute Frog companion
+- **[Jimothy](./Entities/PCs/Jimothy/)** - Spellcaster, dragon rider
+- **[Elysium](./Entities/PCs/Elysium/)** - Divine caster (Alicia)  
+- **[Gordon](./Entities/PCs/Gordon/)** - Dwarf turned frog, pirate background
+- **[Gary](./Entities/PCs/Gary/)** - Brute Frog companion
 
 ## 📅 Recent Sessions
 
-- [[Sessions/sess_20260303]] - March 3, 2026 (Prison escape, Ratman, Dark room puzzle)
-- [[Sessions/sess_20260124-2]] - January 24, 2026 (Train/Boulder incident, Iron Drake)
-- [[Indexes/sessions_index]] - View all 19 sessions
+- [March 3, 2026](./Sessions/sess_20260303/) - Prison escape, Ratman, Dark room puzzle
+- [January 24, 2026](./Sessions/sess_20260124-2/) - Train/Boulder incident, Iron Drake
+- [June 3, 2025](./Sessions/sess_2025-06-03/) - Podling Village, Gleed blessing
 
 ## 📊 Campaign Stats
 
-- **Total Sessions:** 19
-- **Duration:** October 2025 - Present
+- **Total Sessions:** 29+ (June 2025 - Present)
+- **Duration:** 9+ months
 - **Main Characters:** Jimothy, Elysium, Gordon (+ Gary the frog)
 
-## 🗺️ Current Quests
+## 🏰 Key Factions
 
-*See [[Entities/Quests/]] for details*
+- **[Banana Boys](./Entities/Factions/Banana-Boys/)** - Our party!
+- **[The Deluge](./Entities/Factions/The-Deluge/)** - Secret enemy organization
+- **[Bandits](./Entities/Factions/Bandits/)** - Allied faction
+- **[Whistlebrush Brigands](./Entities/Factions/Whistlebrush-Brigands/)** - Rival outlaws
 
-## 📊 Campaign Timeline
+## 🗺️ Important Locations
 
-Our campaign spans from **August 2025** to present. Check out all [[Sessions/]] for detailed notes on each session.
-
-## 🏰 Factions
-
-- **Banana Boys** - Our party!
-- **The Thunders** - Enemy faction encountered
-- **Iron Drake** - Dragon encountered
+- **[The City](./Entities/Locations/The-City/)** - Main hub, magic awakening
+- **[Podling Village](./Entities/Locations/Podling-Village/)** - Frog Spittle's home
+- **[Banana Base](./Entities/Locations/Banana-Base/)** - Party headquarters
+- **[Prison](./Entities/Locations/Prison/)** - Current escape location
+- **[Port Patara](./Entities/Locations/Port-Patara/)** - Trade port
 
 ## 📝 Notes
 
 This wiki is continuously updated after each session. Use the **Graph View** to explore connections between pages!
+
+## 🔗 External Links
+
+- [Campaign Discord](https://discord.gg/communal-hallucinations)
